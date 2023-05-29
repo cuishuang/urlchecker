@@ -1,0 +1,172 @@
+用户输入的参数数量: 5
+pure is: true
+listening on [::]:59867
+port: 59867
+总url数量为: 1869
+HTTP请求错误： Get "https://go.googlesource.com/proposal/+/refs/heads/master#language-changes": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://go.googlesource.com/go": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://reneefrench.blogspot.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://illumosincludeinstallintegerinvalidjs/wasmldflagslog.txtlookup": dial tcp: lookup illumosincludeinstallintegerinvalidjs: no such host
+404: http://www.w3.org/XML/1998/namespaceinternal
+HTTP请求错误： Get "https://example.org/pkg/foo?go-get=1": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://example.org/pkg/foo?go-get=1": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://code.org/r/p/exproj
+HTTP请求错误： Get "https://example.org/?go-get=1": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://code.org/moduleproxy
+404: https://www.iana.org/time-zones/repository/releases/tzcode$CODE.tar.gz
+404: https://www.iana.org/time-zones/repository/releases/tzdata$DATA.tar.gz
+HTTP请求错误： Get "https://git.io/JZFlU": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://codereview.appspot.com/6849045/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://git.io/JfYMW": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://goo.gl/uTcepH": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://chromium.googlesource.com/chromium/src/+/master/docs/memory-infra": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.youtube.com/watch?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&v=": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://developer.android.com/reference/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://cs.chromium.org/search/?sq=package:chromium&type=cs&q=": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://chromium.googlesource.com/chromium/src/+/master/docs/memory-infra/README.md#effective_size-vs_size": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://localhost:6060/doc/install.html": dial tcp [::1]:6060: connect: connection refused
+HTTP请求错误： Get "http://publibfp.boulder.ibm.com/epubs/pdf/dz9zr010.pdf": dial tcp 170.225.126.26:80: connect: connection refused
+HTTP请求错误： Get "http://www.hpl.hp.com/techreports/Compaq-DEC/WRL-2000-2.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://go-review.googlesource.com/c/go/+/359794/comments/ce946a80_6cf53992": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://test.com/x/y.git": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://bitbucket.org/rsc/qr
+HTTP请求错误： Get "https://rsc.io/qr?go-get=1": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://bugs.launchpad.net/bzr/+bug/681792": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://hub.jazz.net/git/user1/pkgname": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://hub.jazz.net/git/user/pkg.name": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://git.apache.org/package-name.git
+404: https://git.apache.org/package-name_2.x.git
+404: https://bitbucket.org/workspace/pkgname
+HTTP请求错误： Get "http://example.com/foo.git": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/foo.git": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://example.com/foo.bzr": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/foo.bzr": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://example.com/svn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/svn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://example.com/foo.hg": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/foo.hg": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://example.com/foo": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/foo": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/repo/target": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://blogs.msdn.microsoft.com/freeassociations/2005/05/19/the-bizarre-and-unhappy-story-of-file-urls/.
+HTTP请求错误： Get "http://www.oocities.org/nodotus/hbglass.html": read tcp 10.32.101.3:61300->85.17.147.12:80: read: connection reset by peer
+HTTP请求错误： Get "https://vcs-test.swtch.com/git/README-only": x509: “vcs-test.golang.org” certificate name does not match input
+403: https://llvm.org/svn/llvm-project/llvm/trunk/lib/Target/Mips/MipsRegisterInfo.td
+404: https://gcc.gnu.org/viewcvs/gcc/trunk/gcc/config/mips/mips.c?view=co&revision=258099&content-type=text%2Fplain
+HTTP请求错误： Get "https://riscv.org/specifications/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.uclibc.org/docs/psABI-x86_64.pdf": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.uclibc.org/docs/psABI-i386.pdf": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://article.gmane.org/gmane.linux.kernel/1853266.": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+403: http://www.microsoft.com/whdc/system/platform/firmware/PECOFFdwn.mspx
+HTTP请求错误： Get "https://www.linux-mips.org/pub/linux/mips/doc/ABI/elf64-2.4.pdf": x509: “linux-mips.org” certificate is expired
+HTTP请求错误： Get "https://chromium.googlesource.com/catapult/+/refs/heads/master/tracing/docs/embedding-trace-viewer.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://chromium.googlesource.com/catapult/+/9508452e18f130c98499cb4c4f1e1efaedee8962": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://chromium.googlesource.com/catapult": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://chromium.googlesource.com/catapult/+/9508452e18f130c98499cb4c4f1e1efaedee8962/tracing/docs/embedding-trace-viewer.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://chromium-review.googlesource.com/c/catapult/+/2062938/2/tracing/bin/index.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://gist.github.com/mbostock/bb09af4c39c79cffcde4": read tcp 10.32.101.3:62080->20.205.243.166:443: read: connection reset by peer
+HTTP请求错误： Get "https://www.usenix.org/legacy/event/sec09/tech/full_papers/crosby.pdf": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://go.googlesource.com/go/+/refs/tags/go1.16.5/src/cmd/go/internal/modfetch/codehost/git.go#826": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+403: http://blogs.msdn.com/b/drnick/archive/2007/12/19/windows-and-upn-format-credentials.aspx
+404: https://docs.microsoft.com/en-us/windows/win32/devinst/cfgmgr32-
+HTTP请求错误： Get "https://go-review.googlesource.com/c/tools/+/135655/1/go/ast/inspector/inspector.go#196": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://www.hpl.hp.com/techreports/Compaq-DEC/SRC-RR-124.pdf": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://compgroups.net/comp.lang.ruby/Decompressing-LZW-compression-from-PDF-file": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://web.archive.org/web/20040719170906/https://www.nada.kth.se/kurser/kth/2D1441/semteo03/lecturenotes/assump.pdf": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://hdevalence.ca/blog/2020-10-04-its-25519am": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://crypto.stackexchange.com/a/47496": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://commondatastorage.googleapis.com/chromium-boringssl-fips/boringssl-$BoringV.tar.xz": read tcp 10.32.101.3:63102->142.251.43.16:443: read: connection reset by peer
+HTTP请求错误： Get "https://boringssl.googlesource.com/boringssl/+/fips-20190808/LICENSE": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://boringssl.googlesource.com/boringssl/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://link.springer.com/article/10.1007%2Fs13389-014-0090-x": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://link.springer.com/article/10.1007%2Fs13389-014-0090-x": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://www.hyperelliptic.org/EFD/g1p/auto-shortw-jacobian.html#doubling-dbl-2007-bl": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.choucroutage.com/Papers/SideChannelAttacks/ctrsa-2011-brown.pdf": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://www.cacr.math.uwaterloo.ca/techreports/2006/cacr2006-16.pdf": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://www.intel.com/p/en_US/embedded": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/fast-sha512-implementations-ia-processors-paper.pdf
+HTTP请求错误： Get "https://boringssl.googlesource.com/boringssl/+/master/include/openssl/pool.h": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://boringssl.googlesource.com/boringssl/+/master/crypto/pool/pool.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://blog.cloudflare.com/yet-another-padding-oracle-in-openssl-cbc-ciphersuites/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/Key_Log_Format
+HTTP请求错误： Get "http://example.com/bar": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://example.com:8080/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/wibble#bar": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://1.2.3.4/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://1.2.3.4:43/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+403: http://bar.com/
+403: http://bar.com/\
+HTTP请求错误： Get "http://foo.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://foo.com/%5C": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://www.foo.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/test": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/test%5C": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com./dsf": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://crt.example.com/ca1.crt": dial tcp: lookup crt.example.com: no such host
+HTTP请求错误： Get "https://foo.com/wibble#foo": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://crl1.example.com/ca1.crl": dial tcp: lookup crl1.example.com: no such host
+HTTP请求错误： Get "http://crl2.example.com/ca1.crl": dial tcp: lookup crl2.example.com: no such host
+HTTP请求错误： Get "https://crt.sh/?id=12721534": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/?∞\\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/_": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.org/_": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://web.archive.org/web/20090819232456/http://developer.apple.com/documentation/DeveloperTools/Conceptual/MachORuntime/index.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc5280#section-4.1.2.5.1": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc7292#appendix-B": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc7159#section-6": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+502: http://timelessrepo.com/json-isnt-a-javascript-subset
+HTTP请求错误： Get "https://stackoverflow.com/a/13340826": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc7159#section-9": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://www.w3.org/2005/Atom": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://example.org/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://example.org/2003/12/13/atom03": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://www.w3.org/XML/1998/namespace": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://www.w3.org/2000/xmlns/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.w3.org/TR/REC-xml/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://example.com/tests/1?foo=1&bar=baz]]></CDataTest>`": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://example.com/tests/1?foo=1&bar=baz": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://go-review.googlesource.com/#/c/5910/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://www.w3.org/2001/xmlSchema-instance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://www.w3.org/2001/XMLSchema-instance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://www.w3.org/2001/XmLSchema-instance": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://codereview.appspot.com/rss/mine/rsc": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://codereview.appspot.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://codereview.appspot.com/%3C/id%3E%3Cauthor%3E%3Cname%3Erietveld&lt;&gt;%3C/name%3E%3C/author%3E%3Centry%3E%3Ctitle%3Erietveld": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://codereview.appspot.com/126085": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://codereview.appspot.com/124106": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://codereview.appspot.com/116075/diff/1/2": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://www.w3.org/TR/html4/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: http://www.w3schools.com/furniture
+HTTP请求错误： Get "http://example.com/default%3C/link": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://example.com/home%3C/link": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://example.com/ns": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://[::1]:8080/foo.txt": dial tcp [::1]:8080: connect: connection refused
+HTTP请求错误： Get "http://gmail.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://example.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://example.com/%2f/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.example.com/person/][Person": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.example.com/person/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://foo.bar/bal/x(": dial tcp: lookup foo.bar: no such host
+HTTP请求错误： Get "https://foo.bar/bal/x": dial tcp: lookup foo.bar: no such host
+HTTP请求错误： Get "https://duplicate.ignored": dial tcp: lookup duplicate.ignored: no such host
+HTTP请求错误： Get "https://example.com/%5Bfoo%5D/bar%7B": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/(foo)/bar!": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/%7Bfoo%7D/bar%7B": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/%29baz%7Bfoo%7D": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/%5C%5Bfoo%5D/bar%5D%28https://example.com/%5Bfoo%5D/bar%29%7B": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/(foo)/bar](https://example.com/(foo)/bar)!": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/%7Bfoo%7D/bar%5D%28https://example.com/%7Bfoo%7D/bar%29%7B": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/%5D%28https://example.com/%29%29baz%7Bfoo%7D": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/](https://example.com/)": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/[foo]/bar": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/(foo)/bar": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/%7Bfoo%7D/bar": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://example.com/linkedword": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://ieeexplore.ieee.org/document/4568137/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://www.slate.com/blogs/the_world_/2014/07/17/the_middle_east_friendship_chart.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://ieeexplore.ieee.org/document/231911/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+418: https://dx.doi.org/10.1109/DSN.2002.1028931
+404: https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/fast-crc-computation-generic-polynomials-pclmulqdq-paper.pdf

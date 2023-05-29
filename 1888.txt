@@ -1,0 +1,41 @@
+用户输入的参数数量: 5
+pure is: true
+listening on [::]:50255
+port: 50255
+总url数量为: 1869
+HTTP请求错误： Get "http://illumosincludeinstallintegerinvalidjs/wasmldflagslog.txtlookup": EOF
+404: http://www.w3.org/XML/1998/namespaceinternal
+HTTP请求错误： Get "https://swig.org/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://example.org/pkg/foo?go-get=1
+404: http://example.org/pkg/foo?go-get=1
+404: https://code.org/r/p/exproj
+404: https://code.org/moduleproxy
+HTTP请求错误： Get "https://data.iana.org/time-zones/releases/tzcode$CODE.tar.gz": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://data.iana.org/time-zones/releases/tzdata$DATA.tar.gz": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://github.com/mstorsjo/llvm-mingw/blob/657d12c8a5098a6d857b10535dda8ef3835fe573/wrappers/dlltool-wrapper.sh": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://github.com/google/pprof/blob/main/doc/README.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.pkware.com/appnote": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://localhost:6060/doc/install.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://bugs.java.com/?bug_id=7073588": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://gcc.gnu.org/PR52991": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://publibfp.boulder.ibm.com/epubs/pdf/dz9zr010.pdf": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://www.hpl.hp.com/techreports/Compaq-DEC/WRL-2000-2.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://test.com/x/y.git": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://bitbucket.org/rsc/qr
+HTTP请求错误： Get "https://bugs.launchpad.net/bzr/+bug/681792": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://hub.jazz.net/git/user1/pkgname": EOF
+HTTP请求错误： Get "https://hub.jazz.net/git/user/pkg.name": EOF
+404: https://git.apache.org/package-name.git
+404: https://git.apache.org/package-name_2.x.git
+404: https://bitbucket.org/workspace/pkgname
+404: http://example.com/foo.git
+404: https://example.com/foo.git
+404: http://example.com/foo.bzr
+404: https://example.com/foo.bzr
+404: http://example.com/svn
+404: https://example.com/svn
+404: http://example.com/foo.hg
+404: https://example.com/foo.hg
+404: http://example.com/foo
+404: https://example.com/foo
+404: https://example.com/repo/target

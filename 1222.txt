@@ -1,0 +1,13 @@
+用户输入的参数数量: 5
+pure is: true
+listening on [::]:63676
+port: 63676
+总url数量为: 2283
+HTTP请求错误： Get "https://pkg.go.dev/about#removing-a-package": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://illumosincludeinstallintegerinvalidjs/wasmldflagslog.txtlookup": EOF
+404: http://www.w3.org/XML/1998/namespaceinternal
+HTTP请求错误： Get "https://example.org/pkg/foo?go-get=1": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: http://example.org/pkg/foo?go-get=1
+404: https://code.org/r/p/exproj
+404: https://code.org/moduleproxy
+HTTP请求错误： Get "https://www.unicode.org/versions/Unicode8.0.0/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)

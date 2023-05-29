@@ -1,0 +1,1270 @@
+用户输入的参数数量: 5
+pure is: true
+总url数量为: 2283
+HTTP请求错误： Get "http://illumosincludeinstallintegerinvalidjs/wasmldflagslog.txtlookup": EOF
+404: http://example.org/pkg/foo?go-get=1
+404: http://www.w3.org/XML/1998/namespaceinternal
+404: https://example.org/pkg/foo?go-get=1
+404: https://code.org/r/p/exproj
+404: https://code.org/moduleproxy
+404: https://www.iana.org/time-zones/repository/releases/tzcode$CODE.tar.gz
+404: https://www.iana.org/time-zones/repository/releases/tzdata$DATA.tar.gz
+404: https://go.dev/doc/godebug
+404: https://go.dev/issue/new\n
+HTTP请求错误： Get "http://publibfp.boulder.ibm.com/epubs/pdf/dz9zr010.pdf": EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Page_replacement_algorithm#The_theoretically_optimal_page_replacement_algorithm": EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Carry_flag#Vs._borrow_flag": EOF
+HTTP请求错误： Get "https://research.swtch.com/sparse": EOF
+HTTP请求错误： Get "https://pp.info.uni-karlsruhe.de/uploads/publikationen/braun13cc.pdf": EOF
+HTTP请求错误： Get "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.1979&rep=rep1&type=pdf": EOF
+HTTP请求错误： Get "https://go.dev/ref/spec#Conversions_from_slice_to_array_pointer": EOF
+HTTP请求错误： Get "https://docs.google.com/document/d/131vjr4DH6JFnb-blm_uRdaC0_Nv3OUwjEY5qVCxCup4/edit#heading=h.mjo1bish3xni": EOF
+HTTP请求错误： Get "https://go.dev/issue/3269": EOF
+HTTP请求错误： Get "https://go.dev/cl/183058": EOF
+HTTP请求错误： Get "https://go.dev/issue/31576": EOF
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/windows/desktop/ms724958(v=vs.85).aspx": EOF
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/api/sysinfoapi/ns-sysinfoapi-system_info": EOF
+HTTP请求错误： Get "https://go.dev/issue/52545": EOF
+HTTP请求错误： Get "https://man.openbsd.org/pkg-config.1": EOF
+HTTP请求错误： Get "https://go.dev/issues/54354": EOF
+HTTP请求错误： Get "https://sourceware.org/bugzilla/show_bug.cgi?id=19011": EOF
+HTTP请求错误： Get "https://www.gnu.org/software/inetutils/manual/html_node/The-_002enetrc-file.html": EOF
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/windows/desktop/aa365247(v=vs.85).aspx": EOF
+HTTP请求错误： Get "https://go.dev/issue/52372": EOF
+HTTP请求错误： Get "https://go.dev/issue/52648": EOF
+HTTP请求错误： Get "http://man.cat-v.org/plan_9/5/stat": EOF
+HTTP请求错误： Get "https://go-review.googlesource.com/c/go/+/359794/comments/ce946a80_6cf53992": EOF
+HTTP请求错误： Get "https://test.com/x/y.git": EOF
+HTTP请求错误： Get "https://www.gnu.org/software/bash/manual/html_node/Double-Quotes.html": EOF
+HTTP请求错误： Get "https://go.dev/issue/51324": EOF
+HTTP请求错误： Get "https://go.dev/issue/52727.": EOF
+HTTP请求错误： Get "https://bitbucket.org/rsc/qr": EOF
+HTTP请求错误： Get "https://rsc.io/qr?go-get=1": EOF
+HTTP请求错误： Get "https://go.dev/issue/50807": EOF
+HTTP请求错误： Get "http://9p.io/magic/man2html/2/access": EOF
+HTTP请求错误： Get "https://research.swtch.com/vgo-mvs": EOF
+HTTP请求错误： Get "https://research.swtch.com/vgo-mvs#algorithm_4": EOF
+HTTP请求错误： Get "https://go.dev/issue/22315": EOF
+HTTP请求错误： Get "https://go.dev/cl/11316": EOF
+HTTP请求错误： Get "https://docs.google.com/document/d/1CvAClvFfyA5R-PhYUmn5OOQtYMH4h6I0nSsKchNAySU": EOF
+HTTP请求错误： Get "http://pad.lv/681792": EOF
+HTTP请求错误： Get "https://hub.jazz.net/git/user1/pkgname": EOF
+HTTP请求错误： Get "https://hub.jazz.net/git/user/pkg.name": EOF
+HTTP请求错误： Get "https://git.openstack.org/openstack/swift": EOF
+HTTP请求错误： Get "https://git.openstack.org/openstack/swift.git": EOF
+HTTP请求错误： Get "https://git.apache.org/package-name.git": EOF
+HTTP请求错误： Get "https://git.apache.org/package-name_2.x.git": EOF
+HTTP请求错误： Get "https://chiselapp.com/user/kyle/repository/fossilgg": EOF
+HTTP请求错误： Get "http://example.com/foo.git": socks connect tcp 127.0.0.1:1080->example.com:80: EOF
+HTTP请求错误： Get "https://example.com/foo.git": socks connect tcp 127.0.0.1:1080->example.com:443: read tcp 127.0.0.1:51587->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com/foo.bzr": socks connect tcp 127.0.0.1:1080->example.com:80: EOF
+HTTP请求错误： Get "https://example.com/foo.bzr": socks connect tcp 127.0.0.1:1080->example.com:443: read tcp 127.0.0.1:51589->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://bitbucket.org/workspace/pkgname": EOF
+HTTP请求错误： Get "http://example.com/svn": EOF
+HTTP请求错误： Get "http://example.com/foo.hg": socks connect tcp 127.0.0.1:1080->example.com:80: EOF
+HTTP请求错误： Get "https://example.com/foo.hg": socks connect tcp 127.0.0.1:1080->example.com:443: read tcp 127.0.0.1:51593->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com/foo": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:51594->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://example.com/svn": EOF
+HTTP请求错误： Get "https://example.com/foo": EOF
+HTTP请求错误： Get "https://blogs.msdn.microsoft.com/ie/2006/12/06/file-uris-in-windows/": socks connect tcp 127.0.0.1:1080->blogs.msdn.microsoft.com:443: read tcp 127.0.0.1:51597->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://blogs.msdn.microsoft.com/freeassociations/2005/05/19/the-bizarre-and-unhappy-story-of-file-urls/.": socks connect tcp 127.0.0.1:1080->blogs.msdn.microsoft.com:443: read tcp 127.0.0.1:51598->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/51748": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:51599->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://example.com/repo/target": EOF
+HTTP请求错误： Get "https://go.dev/issue/50183.": EOF
+HTTP请求错误： Get "https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html#tag_18_02": EOF
+HTTP请求错误： Get "https://pubs.opengroup.org/onlinepubs/9699919799/utilities/echo.html#tag_20_37_16": EOF
+HTTP请求错误： Get "https://go.dev/issue/57141": socks connect tcp 127.0.0.1:1080->go.dev:443: EOF
+HTTP请求错误： Get "https://research.swtch.com/vgo-module": EOF
+HTTP请求错误： Get "http://kermitproject.org/utf8.html": socks connect tcp 127.0.0.1:1080->kermitproject.org:80: EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/I_Can_Eat_Glass": socks connect tcp 127.0.0.1:1080->en.wikipedia.org:443: read tcp 127.0.0.1:51607->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/48319": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:51608->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/51461": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:51609->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.oocities.org/nodotus/hbglass.html": EOF
+HTTP请求错误： Get "https://go.dev/issue/51483": EOF
+HTTP请求错误： Get "https://go.dev/issue/50183": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:51612->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/50892.": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:51613->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/cl/452457": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:51614->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/51473": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:51615->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/47215": EOF
+HTTP请求错误： Get "https://go.dev/issue/22125": EOF
+HTTP请求错误： Get "https://go.dev/issue/54712": EOF
+HTTP请求错误： Get "https://go.dev/issue/54503": socks connect tcp 127.0.0.1:1080->go.dev:443: EOF
+HTTP请求错误： Get "https://go.dev/issue/52331": socks connect tcp 127.0.0.1:1080->go.dev:443: EOF
+HTTP请求错误： Get "https://go.dev/issue/51992": socks connect tcp 127.0.0.1:1080->go.dev:443: EOF
+HTTP请求错误： Get "https://go.dev/issue/57754": EOF
+HTTP请求错误： Get "https://go.dev/issue/51125": EOF
+HTTP请求错误： Get "https://go.dev/issue/24050": socks connect tcp 127.0.0.1:1080->go.dev:443: EOF
+HTTP请求错误： Get "https://go.dev/issue/58767": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:51625->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/51723": EOF
+HTTP请求错误： Get "https://go.dev/issue/51448": EOF
+HTTP请求错误： Get "https://vcs-test.swtch.com/git/README-only": socks connect tcp 127.0.0.1:1080->vcs-test.swtch.com:443: EOF
+HTTP请求错误： Get "https://opensource.apple.com/source/xnu/xnu-4903.270.47/osfmk/kern/cs_blobs.h": socks connect tcp 127.0.0.1:1080->opensource.apple.com:443: EOF
+HTTP请求错误： Get "https://go.dev/issue/56414": EOF
+HTTP请求错误： Get "http://dwarfstd.org/doc/Dwarf3.pdf": EOF
+HTTP请求错误： Get "http://www.openssl.org/~appro/cryptogams/": socks connect tcp 127.0.0.1:1080->www.openssl.org:80: EOF
+HTTP请求错误： Get "https://csrc.nist.gov/publications/fips/fips180-4/fips-180-4.pdf": EOF
+HTTP请求错误： Get "http://infocenter.arm.com/help/topic/com.arm.doc.ihi0040b/IHI0040B_aadwarf.pdf": socks connect tcp 127.0.0.1:1080->infocenter.arm.com:80: EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/5l/span.c": socks connect tcp 127.0.0.1:1080->bitbucket.org:443: EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/5c/list.c": socks connect tcp 127.0.0.1:1080->bitbucket.org:443: EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/5c/5.out.h": EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/5c/swt.c": EOF
+HTTP请求错误： Get "http://infocenter.arm.com/help/topic/com.arm.doc.ecm0665627/abi_sve_aadwarf_100985_0000_00_en.pdf": socks connect tcp 127.0.0.1:1080->infocenter.arm.com:80: EOF
+HTTP请求错误： Get "https://code.google.com/p/ken-cc/source/browse/src/cmd/7c/7.out.h": EOF
+HTTP请求错误： Get "https://code.google.com/p/ken-cc/source/browse/": EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/6l/obj.c": socks connect tcp 127.0.0.1:1080->bitbucket.org:443: EOF
+HTTP请求错误： Get "http://infocenter.arm.com/help/topic/com.arm.doc.dui0473m/dom1359731199385.html": EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/6l/span.c": EOF
+HTTP请求错误： Get "https://llvm.org/svn/llvm-project/llvm/trunk/lib/Target/Mips/MipsRegisterInfo.td": socks connect tcp 127.0.0.1:1080->llvm.org:443: EOF
+HTTP请求错误： Get "https://gcc.gnu.org/viewcvs/gcc/trunk/gcc/config/mips/mips.c?view=co&revision=258099&content-type=text%2Fplain": socks connect tcp 127.0.0.1:1080->gcc.gnu.org:443: EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/6l/l.h": EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/6l/pass.c": EOF
+HTTP请求错误： Get "https://riscv.org/specifications/": socks connect tcp 127.0.0.1:1080->riscv.org:443: EOF
+HTTP请求错误： Get "https://refspecs.linuxfoundation.org/ELF/zSeries/lzsabi0_zSeries/x1472.html": socks connect tcp 127.0.0.1:1080->refspecs.linuxfoundation.org:443: EOF
+HTTP请求错误： Get "https://openpowerfoundation.org/?resource_lib=64-bit-elf-v2-abi-specification-power-architecture": EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/6c/6.out.h": EOF
+HTTP请求错误： Get "https://www.uclibc.org/docs/psABI-i386.pdf": socks connect tcp 127.0.0.1:1080->www.uclibc.org:443: EOF
+HTTP请求错误： Get "https://www.uclibc.org/docs/psABI-x86_64.pdf": EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/VEX_prefix#Technical_description": socks connect tcp 127.0.0.1:1080->en.wikipedia.org:443: EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/6c/list.c": socks connect tcp 127.0.0.1:1080->bitbucket.org:443: EOF
+HTTP请求错误： Get "http://article.gmane.org/gmane.linux.kernel/1853266.": socks connect tcp 127.0.0.1:1080->article.gmane.org:80: EOF
+HTTP请求错误： Get "http://www.agner.org/optimize/optimizing_assembly.pdf": EOF
+HTTP请求错误： Get "https://go.dev/issue/31105": EOF
+HTTP请求错误： Get "https://docs.google.com/document/d/1CvAClvFfyA5R-PhYUmn5OOQtYMH4h6I0nSsKchNAySU/preview": socks connect tcp 127.0.0.1:1080->docs.google.com:443: EOF
+HTTP请求错误： Get "https://nodejs.org/api/process.html#processversion": EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/6l/asm.c": EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/5l/l.h": socks connect tcp 127.0.0.1:1080->bitbucket.org:443: EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/5l/obj.c": socks connect tcp 127.0.0.1:1080->bitbucket.org:443: EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/5l/asm.c": EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/include/ar.h": EOF
+HTTP请求错误： Get "https://sourceware.org/gdb/onlinedocs/gdb/dotdebug_005fgdb_005fscripts-section.html": EOF
+HTTP请求错误： Get "https://www.netbsd.org/docs/kernel/elf-notes.html": EOF
+HTTP请求错误： Get "https://sourceware.org/bugzilla/show_bug.cgi?id=19962": socks connect tcp 127.0.0.1:1080->sourceware.org:443: EOF
+HTTP请求错误： Get "https://go.dev/issue/22040": socks connect tcp 127.0.0.1:1080->go.dev:443: EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/8l/asm.c": EOF
+HTTP请求错误： Get "https://9p.io/magic/man2html/1/nm": read tcp 127.0.0.1:51671->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://opensource.apple.com/source/xnu/xnu-6153.81.5/EXTERNAL_HEADERS/mach-o/loader.h": socks connect tcp 127.0.0.1:1080->opensource.apple.com:443: EOF
+HTTP请求错误： Get "https://developer.apple.com/mac/library/DOCUMENTATION/DeveloperTools/Conceptual/MachORuntime/Reference/reference.html": EOF
+HTTP请求错误： Get "https://opensource.apple.com/source/dyld/dyld-519.2.2/src/ImageLoaderMachO.cpp.auto.html": EOF
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-flushviewoffile": socks connect tcp 127.0.0.1:1080->docs.microsoft.com:443: EOF
+HTTP请求错误： Get "https://go.dev/issue/51461.": EOF
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-flushfilebuffers": EOF
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/debug/pe-format": socks connect tcp 127.0.0.1:1080->docs.microsoft.com:443: EOF
+HTTP请求错误： Get "http://www.microsoft.com/whdc/system/platform/firmware/PECOFFdwn.mspx": socks connect tcp 127.0.0.1:1080->www.microsoft.com:80: EOF
+HTTP请求错误： Get "https://go.dev/issue/55954": EOF
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/debug/pe-format#export-address-table": EOF
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/desktop/debug/pe-format#the-reloc-section-image-only": socks connect tcp 127.0.0.1:1080->docs.microsoft.com:443: EOF
+HTTP请求错误： Get "https://sourceware.org/git/?p=binutils-gdb.git;a=blob;f=ld/pe-dll.c;h=e7b82ba6ffadf74dc1b9ee71dc13d48336941e51;hb=HEAD#l972": EOF
+HTTP请求错误： Get "https://sourceware.org/bugzilla/show_bug.cgi?id=21809": EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/8l/l.h": socks connect tcp 127.0.0.1:1080->bitbucket.org:443: EOF
+HTTP请求错误： Get "https://www.linux-mips.org/pub/linux/mips/doc/ABI/elf64-2.4.pdf": EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/8l/obj.c": read tcp 127.0.0.1:51687->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://chromium.googlesource.com/catapult/+/9508452e18f130c98499cb4c4f1e1efaedee8962": socks connect tcp 127.0.0.1:1080->chromium.googlesource.com:443: EOF
+HTTP请求错误： Get "https://chromium.googlesource.com/catapult": socks connect tcp 127.0.0.1:1080->chromium.googlesource.com:443: EOF
+HTTP请求错误： Get "https://chromium.googlesource.com/catapult/+/9508452e18f130c98499cb4c4f1e1efaedee8962/tracing/docs/embedding-trace-viewer.md": socks connect tcp 127.0.0.1:1080->chromium.googlesource.com:443: EOF
+HTTP请求错误： Get "https://chromium.googlesource.com/catapult/+/refs/heads/master/tracing/docs/embedding-trace-viewer.md": EOF
+HTTP请求错误： Get "https://chromium-review.googlesource.com/c/catapult/+/2062938/2/tracing/bin/index.html": EOF
+HTTP请求错误： Get "https://developers.google.com/open-source/cla/individual": socks connect tcp 127.0.0.1:1080->developers.google.com:443: EOF
+HTTP请求错误： Get "https://docs.google.com/document/d/1CvAClvFfyA5R-PhYUmn5OOQtYMH4h6I0nSsKchNAySU/view": EOF
+HTTP请求错误： Get "https://developers.google.com/open-source/cla/corporate": EOF
+HTTP请求错误： Get "https://sourceware.org/bugzilla/show_bug.cgi?id=17541": socks connect tcp 127.0.0.1:1080->sourceware.org:443: EOF
+HTTP请求错误： Get "https://linux.die.net/man/1/nm": socks connect tcp 127.0.0.1:1080->linux.die.net:443: EOF
+HTTP请求错误： Get "http://www.apache.org/licenses/": EOF
+HTTP请求错误： Get "https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html": EOF
+HTTP请求错误： Get "https://developers.google.com/protocol-buffers/docs/encoding": socks connect tcp 127.0.0.1:1080->developers.google.com:443: EOF
+HTTP请求错误： Get "https://bl.ocks.org/mbostock/bb09af4c39c79cffcde4": socks connect tcp 127.0.0.1:1080->bl.ocks.org:443: EOF
+HTTP请求错误： Get "https://graphviz.org/docs/attr-types/escString/": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@discoveryjs/json-ext/-/json-ext-0.5.6.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@types/eslint/-/eslint-8.2.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@types/estree/-/estree-0.0.50.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@types/eslint-scope/-/eslint-scope-3.7.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.9.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webassemblyjs/ast/-/ast-1.11.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webassemblyjs/floating-point-hex-parser/-/floating-point-hex-parser-1.11.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@types/node/-/node-16.11.11.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webassemblyjs/helper-api-error/-/helper-api-error-1.11.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webassemblyjs/helper-buffer/-/helper-buffer-1.11.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webassemblyjs/helper-numbers/-/helper-numbers-1.11.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webassemblyjs/helper-wasm-section/-/helper-wasm-section-1.11.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webassemblyjs/helper-wasm-bytecode/-/helper-wasm-bytecode-1.11.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webassemblyjs/ieee754/-/ieee754-1.11.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webassemblyjs/utf8/-/utf8-1.11.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webassemblyjs/wasm-edit/-/wasm-edit-1.11.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webassemblyjs/leb128/-/leb128-1.11.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webassemblyjs/wasm-gen/-/wasm-gen-1.11.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webassemblyjs/wasm-opt/-/wasm-opt-1.11.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webassemblyjs/wast-printer/-/wast-printer-1.11.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webassemblyjs/wasm-parser/-/wasm-parser-1.11.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webpack-cli/configtest/-/configtest-1.1.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webpack-cli/serve/-/serve-1.6.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@xtuc/ieee754/-/ieee754-1.2.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@webpack-cli/info/-/info-1.4.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/@xtuc/long/-/long-4.2.2.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/acorn-import-assertions/-/acorn-import-assertions-1.8.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/acorn/-/acorn-8.6.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/ajv/-/ajv-6.12.6.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/browserslist/-/browserslist-4.18.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/ajv-keywords/-/ajv-keywords-3.5.2.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/buffer-from/-/buffer-from-1.1.2.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/chrome-trace-event/-/chrome-trace-event-1.0.3.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/clone-deep/-/clone-deep-4.0.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001284.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/colorette/-/colorette-2.0.16.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/cross-spawn/-/cross-spawn-7.0.3.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/d3-color/-/d3-color-1.4.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/d3-flame-graph/-/d3-flame-graph-4.1.3.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/commander/-/commander-2.20.3.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/d3-array/-/d3-array-3.1.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-3.0.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/d3-format/-/d3-format-3.0.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51746->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/d3-hierarchy/-/d3-hierarchy-3.0.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/d3-scale/-/d3-scale-4.0.2.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51748->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/d3-ease/-/d3-ease-3.0.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/d3-selection/-/d3-selection-3.0.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/d3-transition/-/d3-transition-3.0.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-1.4.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51752->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/d3-time/-/d3-time-1.1.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/d3-time/-/d3-time-3.0.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/d3-time-format/-/d3-time-format-2.3.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/d3-timer/-/d3-timer-1.0.10.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/enhanced-resolve/-/enhanced-resolve-5.8.3.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/envinfo/-/envinfo-7.8.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51758->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/es-module-lexer/-/es-module-lexer-0.9.3.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51759->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.11.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/escalade/-/escalade-3.1.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/esrecurse/-/esrecurse-4.3.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/estraverse/-/estraverse-5.3.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51763->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/estraverse/-/estraverse-4.3.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51764->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/eslint-scope/-/eslint-scope-5.1.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/events/-/events-3.3.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51767->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/fast-json-stable-stringify/-/fast-json-stable-stringify-2.1.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51768->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/fastest-levenshtein/-/fastest-levenshtein-1.0.12.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51769->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/execa/-/execa-5.1.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/find-up/-/find-up-4.1.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/get-stream/-/get-stream-6.0.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/glob-to-regexp/-/glob-to-regexp-0.4.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51773->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.8.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51774->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/has/-/has-1.0.3.tgz": read tcp 127.0.0.1:51775->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/human-signals/-/human-signals-2.1.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/has-flag/-/has-flag-4.0.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/internmap/-/internmap-2.0.3.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/interpret/-/interpret-2.2.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51780->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/import-local/-/import-local-3.0.3.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/is-core-module/-/is-core-module-2.8.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/is-stream/-/is-stream-2.0.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/isexe/-/isexe-2.0.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51784->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/is-plain-object/-/is-plain-object-2.0.4.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/isobject/-/isobject-3.0.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/json-parse-better-errors/-/json-parse-better-errors-1.0.2.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/json-schema-traverse/-/json-schema-traverse-0.4.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51788->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/kind-of/-/kind-of-6.0.3.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51789->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/jest-worker/-/jest-worker-27.4.2.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/loader-runner/-/loader-runner-4.2.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/merge-stream/-/merge-stream-2.0.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/mime-db/-/mime-db-1.51.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51793->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/mime-types/-/mime-types-2.1.34.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51794->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/locate-path/-/locate-path-5.0.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/mimic-fn/-/mimic-fn-2.1.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/node-releases/-/node-releases-2.0.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/npm-run-path/-/npm-run-path-4.0.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51798->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/onetime/-/onetime-5.1.2.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51799->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/neo-async/-/neo-async-2.6.2.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/p-limit/-/p-limit-2.3.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/p-try/-/p-try-2.2.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/path-exists/-/path-exists-4.0.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51803->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/path-key/-/path-key-3.1.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51804->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/path-parse/-/path-parse-1.0.7.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51805->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/picocolors/-/picocolors-1.0.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/pkg-dir/-/pkg-dir-4.2.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51807->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/punycode/-/punycode-2.1.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51808->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/randombytes/-/randombytes-2.1.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51809->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/rechoir/-/rechoir-0.7.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51810->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/resolve/-/resolve-1.20.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51811->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/resolve-cwd/-/resolve-cwd-3.0.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51812->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/resolve-from/-/resolve-from-5.0.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51813->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.2.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51814->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/schema-utils/-/schema-utils-3.1.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51815->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/serialize-javascript/-/serialize-javascript-6.0.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51816->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/p-locate/-/p-locate-4.1.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/shallow-clone/-/shallow-clone-3.0.1.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/shebang-command/-/shebang-command-2.0.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/shebang-regex/-/shebang-regex-3.0.0.tgz": EOF
+HTTP请求错误： Get "https://registry.npmjs.org/source-map/-/source-map-0.6.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: EOF
+HTTP请求错误： Get "https://registry.npmjs.org/source-map-support/-/source-map-support-0.5.21.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51822->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/strip-final-newline/-/strip-final-newline-2.0.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51823->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/supports-color/-/supports-color-8.1.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51824->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/tapable/-/tapable-2.2.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51825->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/terser/-/terser-5.10.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51826->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/source-map/-/source-map-0.7.3.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51827->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/terser-webpack-plugin/-/terser-webpack-plugin-5.2.5.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51828->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/uri-js/-/uri-js-4.4.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51829->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/watchpack/-/watchpack-2.3.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51830->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/webpack/-/webpack-5.64.4.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51831->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/webpack-cli/-/webpack-cli-4.9.1.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51832->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/commander/-/commander-7.2.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51833->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/webpack-merge/-/webpack-merge-5.8.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51834->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/webpack-sources/-/webpack-sources-3.2.2.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51835->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/which/-/which-2.0.2.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51836->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/wildcard/-/wildcard-2.0.0.tgz": socks connect tcp 127.0.0.1:1080->registry.npmjs.org:443: read tcp 127.0.0.1:51837->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://stackoverflow.com/a/21199041/171898": socks connect tcp 127.0.0.1:1080->stackoverflow.com:443: read tcp 127.0.0.1:51838->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://codesourcery.com/cxx-abi/": socks connect tcp 127.0.0.1:1080->codesourcery.com:80: read tcp 127.0.0.1:51839->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://registry.npmjs.org/signal-exit/-/signal-exit-3.0.6.tgz": EOF
+HTTP请求错误： Get "https://gcc.gnu.org/PR78252": EOF
+HTTP请求错误： Get "https://gcc.gnu.org/PR91979": socks connect tcp 127.0.0.1:1080->gcc.gnu.org:443: EOF
+HTTP请求错误： Get "http://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-manual-325462.pdf": socks connect tcp 127.0.0.1:1080->www.intel.com:80: read tcp 127.0.0.1:51843->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/desktop/fileio/naming-a-file": socks connect tcp 127.0.0.1:1080->docs.microsoft.com:443: read tcp 127.0.0.1:51844->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://research.swtch.com/tlog#tiling_a_log": socks connect tcp 127.0.0.1:1080->research.swtch.com:443: read tcp 127.0.0.1:51845->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://research.swtch.com/tlog#authenticating_tiles": socks connect tcp 127.0.0.1:1080->research.swtch.com:443: read tcp 127.0.0.1:51846->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc6962#section-2.1": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:51847->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.usenix.org/legacy/event/sec09/tech/full_papers/crosby.pdf": socks connect tcp 127.0.0.1:1080->www.usenix.org:443: read tcp 127.0.0.1:51848->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc6962#section-2.1.1": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:51849->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc6962#section-2.1.2": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:51850->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.googlesource.com/go/+/refs/tags/go1.16.5/src/cmd/go/internal/modfetch/codehost/git.go#826": socks connect tcp 127.0.0.1:1080->go.googlesource.com:443: read tcp 127.0.0.1:51851->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://gcc.gnu.org/PR70182": EOF
+HTTP请求错误： Get "https://www.kernel.org/doc/html/latest/watchdog/watchdog-api.html": EOF
+HTTP请求错误： Get "https://cgit.freebsd.org/src/plain/sys/kern/syscalls.master?h=stable/12": socks connect tcp 127.0.0.1:1080->cgit.freebsd.org:443: EOF
+HTTP请求错误： Get "http://cvsweb.netbsd.org/bsdweb.cgi/~checkout~/src/sys/kern/syscalls.master": socks connect tcp 127.0.0.1:1080->cvsweb.netbsd.org:80: read tcp 127.0.0.1:51855->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://lists.dragonflybsd.org/pipermail/users/2019-September/358280.html": socks connect tcp 127.0.0.1:1080->lists.dragonflybsd.org:80: read tcp 127.0.0.1:51856->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.freebsd.org/doc/en_US.ISO8859-1/books/porters-handbook/versions.html": socks connect tcp 127.0.0.1:1080->www.freebsd.org:443: read tcp 127.0.0.1:51857->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.kernel.org/doc/Documentation/networking/can.txt": socks connect tcp 127.0.0.1:1080->www.kernel.org:443: read tcp 127.0.0.1:51858->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/SAE_J1939": socks connect tcp 127.0.0.1:1080->en.wikipedia.org:443: read tcp 127.0.0.1:51859->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.kernel.org/doc/Documentation/networking/j1939.rst": socks connect tcp 127.0.0.1:1080->www.kernel.org:443: read tcp 127.0.0.1:51860->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.chronox.de/crypto-API/crypto/userspace-if.html": socks connect tcp 127.0.0.1:1080->www.chronox.de:80: read tcp 127.0.0.1:51861->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://tipc.sourceforge.net/": socks connect tcp 127.0.0.1:1080->tipc.sourceforge.net:80: read tcp 127.0.0.1:51862->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://man7.org/linux/man-pages/man2/keyctl.2.html": socks connect tcp 127.0.0.1:1080->man7.org:80: read tcp 127.0.0.1:51863->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://man7.org/linux/man-pages/man3/keyctl_get_keyring_ID.3.html": socks connect tcp 127.0.0.1:1080->man7.org:80: read tcp 127.0.0.1:51864->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://man7.org/linux/man-pages/man1/keyctl.1.html": socks connect tcp 127.0.0.1:1080->man7.org:80: read tcp 127.0.0.1:51865->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://man7.org/linux/man-pages/man3/keyctl_setperm.3.html": socks connect tcp 127.0.0.1:1080->man7.org:80: read tcp 127.0.0.1:51866->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://man7.org/linux/man-pages/man3/keyctl_join_session_keyring.3.html": socks connect tcp 127.0.0.1:1080->man7.org:80: read tcp 127.0.0.1:51867->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://man7.org/linux/man-pages/man3/keyctl_search.3.html": socks connect tcp 127.0.0.1:1080->man7.org:80: read tcp 127.0.0.1:51868->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://man7.org/linux/man-pages/man3/keyctl_instantiate_iov.3.html": socks connect tcp 127.0.0.1:1080->man7.org:80: read tcp 127.0.0.1:51869->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://man7.org/linux/man-pages/man3/keyctl_dh_compute.3.html": socks connect tcp 127.0.0.1:1080->man7.org:80: read tcp 127.0.0.1:51870->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://man7.org/linux/man-pages/man3/keyctl_restrict_keyring.3.html": socks connect tcp 127.0.0.1:1080->man7.org:80: read tcp 127.0.0.1:51871->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://man7.org/linux/man-pages/man2/mount_setattr.2.html": socks connect tcp 127.0.0.1:1080->man7.org:443: read tcp 127.0.0.1:51872->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://sourceware.org/git/?p=glibc.git;a=blob;f=sysdeps/unix/sysv/linux/faccessat.c;hb=HEAD": socks connect tcp 127.0.0.1:1080->sourceware.org:443: read tcp 127.0.0.1:51873->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/54254": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:51874->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://cvsweb.openbsd.org/cgi-bin/cvsweb/~checkout~/src/sys/kern/syscalls.master": socks connect tcp 127.0.0.1:1080->cvsweb.openbsd.org:443: read tcp 127.0.0.1:51875->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/ms684179(v=vs.85).aspx": socks connect tcp 127.0.0.1:1080->msdn.microsoft.com:443: read tcp 127.0.0.1:51876->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/windows/desktop/ms684179(v=vs.85).aspx": socks connect tcp 127.0.0.1:1080->msdn.microsoft.com:443: read tcp 127.0.0.1:51877->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/ff919712%28VS.85%29.aspx": socks connect tcp 127.0.0.1:1080->msdn.microsoft.com:443: read tcp 127.0.0.1:51878->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://msdn.microsoft.com/en-us/library/ms880421": socks connect tcp 127.0.0.1:1080->msdn.microsoft.com:80: read tcp 127.0.0.1:51879->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://blogs.msdn.com/b/drnick/archive/2007/12/19/windows-and-upn-format-credentials.aspx": socks connect tcp 127.0.0.1:1080->blogs.msdn.com:80: read tcp 127.0.0.1:51880->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/windows/desktop/aa379649(v=vs.85).aspx": socks connect tcp 127.0.0.1:1080->msdn.microsoft.com:443: read tcp 127.0.0.1:51881->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows-hardware/drivers/install/setupapi": socks connect tcp 127.0.0.1:1080->docs.microsoft.com:443: read tcp 127.0.0.1:51882->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/devinst/cfgmgr32-": socks connect tcp 127.0.0.1:1080->docs.microsoft.com:443: read tcp 127.0.0.1:51883->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/memory/memory-protection-constants": socks connect tcp 127.0.0.1:1080->docs.microsoft.com:443: read tcp 127.0.0.1:51884->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/api/minwinbase/ns-minwinbase-win32_find_dataw": socks connect tcp 127.0.0.1:1080->docs.microsoft.com:443: read tcp 127.0.0.1:51885->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://support.microsoft.com/default.aspx?scid=kb;en-us;257460": socks connect tcp 127.0.0.1:1080->support.microsoft.com:80: read tcp 127.0.0.1:51886->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://gitweb.dragonflybsd.org/dragonfly.git/blob_plain/HEAD:/sys/kern/syscalls.master": EOF
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/console/setconsolemode": EOF
+HTTP请求错误： Get "https://go-review.googlesource.com/c/tools/+/135655/1/go/ast/inspector/inspector.go#196": socks connect tcp 127.0.0.1:1080->go-review.googlesource.com:443: EOF
+HTTP请求错误： Get "https://go.dev/ref/spec#Core_types": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:51890->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Bzip2": socks connect tcp 127.0.0.1:1080->en.wikipedia.org:443: read tcp 127.0.0.1:51891->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.paul.sladen.org/projects/pyflate": socks connect tcp 127.0.0.1:1080->www.paul.sladen.org:80: read tcp 127.0.0.1:51892->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.hpl.hp.com/techreports/Compaq-DEC/SRC-RR-124.pdf": socks connect tcp 127.0.0.1:1080->www.hpl.hp.com:80: read tcp 127.0.0.1:51893->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.bolet.org/~pornin/deflate-flush.html": socks connect tcp 127.0.0.1:1080->www.bolet.org:443: read tcp 127.0.0.1:51894->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Graphics_Interchange_Format": socks connect tcp 127.0.0.1:1080->en.wikipedia.org:443: read tcp 127.0.0.1:51895->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://compgroups.net/comp.lang.ruby/Decompressing-LZW-compression-from-PDF-file": socks connect tcp 127.0.0.1:1080->compgroups.net:80: read tcp 127.0.0.1:51896->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/console/console-screen-buffer-info-str": EOF
+HTTP请求错误： Get "https://www.w3.org/Graphics/GIF/spec-gif89a.txt": EOF
+HTTP请求错误： Get "https://www.zlib.net/zpipe.c": EOF
+HTTP请求错误： Get "https://csrc.nist.gov/publications/fips/fips197/fips-197.pdf": EOF
+HTTP请求错误： Get "https://csrc.nist.gov/csrc/media/publications/fips/197/final/documents/fips-197.pdf": EOF
+HTTP请求错误： Get "https://csrc.nist.gov/archive/aes/rijndael/Rijndael-ammended.pdf": EOF
+HTTP请求错误： Get "https://csrc.nist.gov/publications/nistpubs/800-38a/sp800-38a.pdf": EOF
+HTTP请求错误： Get "https://csrc.nist.gov/groups/ST/toolkit/BCM/current_modes.html": EOF
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc5246#section-6.2.3.2": EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Authenticated_encryption": EOF
+HTTP请求错误： Get "https://csrc.nist.gov/groups/ST/toolkit/BCM/documents/proposedmodes/gcm/gcm-revised-spec.pdf": EOF
+HTTP请求错误： Get "https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.186-4.pdf": EOF
+HTTP请求错误： Get "https://cs.nyu.edu/~dodis/ps/merkle.pdf": socks connect tcp 127.0.0.1:1080->cs.nyu.edu:443: read tcp 127.0.0.1:51909->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://web.archive.org/web/20040719170906/https://www.nada.kth.se/kurser/kth/2D1441/semteo03/lecturenotes/assump.pdf": socks connect tcp 127.0.0.1:1080->web.archive.org:443: read tcp 127.0.0.1:51910->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://csrc.nist.gov/groups/STM/cavp/documents/dss/186-3ecdsatestvectors.zip": socks connect tcp 127.0.0.1:1080->csrc.nist.gov:443: read tcp 127.0.0.1:51911->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://ed25519.cr.yp.to/": socks connect tcp 127.0.0.1:1080->ed25519.cr.yp.to:443: read tcp 127.0.0.1:51912->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://ed25519.cr.yp.to/python/sign.input": socks connect tcp 127.0.0.1:1080->ed25519.cr.yp.to:443: read tcp 127.0.0.1:51913->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.secg.org/sec1-v2.pdf": EOF
+HTTP请求错误： Get "https://hyperelliptic.org/EFD/g1p/auto-shortw-jacobian-3.html#addition-add-2007-bl": socks connect tcp 127.0.0.1:1080->hyperelliptic.org:443: read tcp 127.0.0.1:51916->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://hyperelliptic.org/EFD/g1p/auto-shortw-jacobian-3.html#doubling-dbl-2001-b": socks connect tcp 127.0.0.1:1080->hyperelliptic.org:443: read tcp 127.0.0.1:51917->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://csrc.nist.gov/publications/fips/fips198-1/FIPS-198-1_final.pdf": socks connect tcp 127.0.0.1:1080->csrc.nist.gov:443: read tcp 127.0.0.1:51918->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://csrc.nist.gov/publications/fips/fips198/fips-198a.pdf": socks connect tcp 127.0.0.1:1080->csrc.nist.gov:443: read tcp 127.0.0.1:51919->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc8032#section-5.1.7": EOF
+HTTP请求错误： Get "https://csrc.nist.gov/groups/ST/toolkit/examples.html": socks connect tcp 127.0.0.1:1080->csrc.nist.gov:443: read tcp 127.0.0.1:51920->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://crypto.stackexchange.com/a/47496": socks connect tcp 127.0.0.1:1080->crypto.stackexchange.com:443: read tcp 127.0.0.1:51921->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://bearssl.org/bigint.html#montgomery-reduction-and-multiplication": socks connect tcp 127.0.0.1:1080->bearssl.org:443: read tcp 127.0.0.1:51922->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://hdevalence.ca/blog/2020-10-04-its-25519am": EOF
+HTTP请求错误： Get "https://cla.developers.google.com/clas": socks connect tcp 127.0.0.1:1080->cla.developers.google.com:443: read tcp 127.0.0.1:51925->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.openssl.org/": socks connect tcp 127.0.0.1:1080->www.openssl.org:80: read tcp 127.0.0.1:51926->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://boringssl.googlesource.com/boringssl/": socks connect tcp 127.0.0.1:1080->boringssl.googlesource.com:443: read tcp 127.0.0.1:51927->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/doc/go1compat": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:51928->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://commondatastorage.googleapis.com/chromium-boringssl-fips/boringssl-$BoringV.tar.xz": EOF
+HTTP请求错误： Get "https://eprint.iacr.org/2008/522": socks connect tcp 127.0.0.1:1080->eprint.iacr.org:443: read tcp 127.0.0.1:51929->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://eprint.iacr.org/2015/1060": socks connect tcp 127.0.0.1:1080->eprint.iacr.org:443: read tcp 127.0.0.1:51930->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://link.springer.com/article/10.1007%2Fs13389-014-0090-x": socks connect tcp 127.0.0.1:1080->link.springer.com:443: read tcp 127.0.0.1:51931->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://boringssl.googlesource.com/boringssl/+/fips-20190808/LICENSE": EOF
+HTTP请求错误： Get "http://www.hyperelliptic.org/EFD/g1p/auto-shortw-jacobian.html#doubling-dbl-2007-bl": socks connect tcp 127.0.0.1:1080->www.hyperelliptic.org:80: read tcp 127.0.0.1:51934->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.hyperelliptic.org/EFD/g1p/auto-shortw.html": socks connect tcp 127.0.0.1:1080->www.hyperelliptic.org:80: read tcp 127.0.0.1:51935->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.hyperelliptic.org/EFD/g1p/auto-shortw-projective-3.html": socks connect tcp 127.0.0.1:1080->www.hyperelliptic.org:80: read tcp 127.0.0.1:51936->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.hyperelliptic.org/EFD/g1p/auto-shortw-jacobian-3.html#doubling-dbl-2004-hmv": socks connect tcp 127.0.0.1:1080->www.hyperelliptic.org:80: read tcp 127.0.0.1:51937->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://eprint.iacr.org/2013/816.pdf": EOF
+HTTP请求错误： Get "http://link.springer.com/article/10.1007%2Fs13389-014-0090-x": EOF
+HTTP请求错误： Get "https://www.hyperelliptic.org/EFD/g1p/auto-shortw-jacobian.html#doubling-dbl-2007-bl": socks connect tcp 127.0.0.1:1080->www.hyperelliptic.org:443: read tcp 127.0.0.1:51940->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.hyperelliptic.org/EFD/g1p/auto-shortw.html": socks connect tcp 127.0.0.1:1080->www.hyperelliptic.org:443: read tcp 127.0.0.1:51941->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.hyperelliptic.org/EFD/g1p/auto-shortw-projective-3.html": socks connect tcp 127.0.0.1:1080->www.hyperelliptic.org:443: read tcp 127.0.0.1:51942->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.hyperelliptic.org/EFD/g1p/auto-shortw-jacobian-3.html#doubling-dbl-2004-hmv": socks connect tcp 127.0.0.1:1080->www.hyperelliptic.org:443: read tcp 127.0.0.1:51943->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://choucroutage.com/Papers/SideChannelAttacks/ctrsa-2011-brown.pdf": EOF
+HTTP请求错误： Get "https://delta.cs.cinvestav.mx/~francisco/arith/julio.pdf": socks connect tcp 127.0.0.1:1080->delta.cs.cinvestav.mx:443: read tcp 127.0.0.1:51944->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.hyperelliptic.org/EFD/g1p/auto-shortw-jacobian-3.html#addition-add-1998-cmo-2": socks connect tcp 127.0.0.1:1080->www.hyperelliptic.org:443: read tcp 127.0.0.1:51945->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://briansmith.org/ecc-inversion-addition-chains-01#p256_scalar_inversion": socks connect tcp 127.0.0.1:1080->briansmith.org:443: read tcp 127.0.0.1:51946->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.hyperelliptic.org/EFD/g1p/auto-shortw-jacobian-3.html#addition-add-1998-cmo-2": EOF
+HTTP请求错误： Get "https://developer.mozilla.org/en-US/docs/Web/API/Crypto/getRandomValues#exceptions": socks connect tcp 127.0.0.1:1080->developer.mozilla.org:443: read tcp 127.0.0.1:51949->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://developer.mozilla.org/en-US/docs/Web/API/Crypto/getRandomValues": socks connect tcp 127.0.0.1:1080->developer.mozilla.org:443: read tcp 127.0.0.1:51950->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://groups.google.com/group/sci.crypt/msg/10a300c9d21afca0?pli=1": socks connect tcp 127.0.0.1:1080->groups.google.com:443: read tcp 127.0.0.1:51951->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/RC4": socks connect tcp 127.0.0.1:1080->en.wikipedia.org:443: read tcp 127.0.0.1:51952->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.zorinaq.com/papers/md5-amd64.html": EOF
+HTTP请求错误： Get "https://www.imperialviolet.org/2012/03/16/rsae.html": socks connect tcp 127.0.0.1:1080->www.imperialviolet.org:443: read tcp 127.0.0.1:51953->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.cacr.math.uwaterloo.ca/techreports/2006/cacr2006-16.pdf": socks connect tcp 127.0.0.1:1080->www.cacr.math.uwaterloo.ca:80: read tcp 127.0.0.1:51954->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://software.intel.com/en-us/articles": socks connect tcp 127.0.0.1:1080->software.intel.com:80: read tcp 127.0.0.1:51955->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.intel.com/p/en_US/embedded": socks connect tcp 127.0.0.1:1080->www.intel.com:80: read tcp 127.0.0.1:51956->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.zorinaq.com/papers/md5-amd64.tar.bz2": EOF
+HTTP请求错误： Get "https://boringssl.googlesource.com/boringssl/+/master/include/openssl/pool.h": socks connect tcp 127.0.0.1:1080->boringssl.googlesource.com:443: read tcp 127.0.0.1:51959->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://boringssl.googlesource.com/boringssl/+/master/crypto/pool/pool.c": socks connect tcp 127.0.0.1:1080->boringssl.googlesource.com:443: read tcp 127.0.0.1:51960->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.rc4nomore.com": socks connect tcp 127.0.0.1:1080->www.rc4nomore.com:443: read tcp 127.0.0.1:51961->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.isg.rhul.ac.uk/tls/Lucky13.html": socks connect tcp 127.0.0.1:1080->www.isg.rhul.ac.uk:80: read tcp 127.0.0.1:51962->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/fast-sha512-implementations-ia-processors-paper.pdf": EOF
+HTTP请求错误： Get "https://www.imperialviolet.org/2013/02/04/luckythirteen.html": socks connect tcp 127.0.0.1:1080->www.imperialviolet.org:443: read tcp 127.0.0.1:51963->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://sweet32.info": socks connect tcp 127.0.0.1:1080->sweet32.info:443: read tcp 127.0.0.1:51964->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://eprint.iacr.org/2015/1129": socks connect tcp 127.0.0.1:1080->eprint.iacr.org:443: read tcp 127.0.0.1:51965->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=fb87127bcefc17efab757606e1b1e333fd614dd0": EOF
+HTTP请求错误： Get "https://www.iana.org/assignments/tls-parameters/tls-parameters.xml": socks connect tcp 127.0.0.1:1080->www.iana.org:443: read tcp 127.0.0.1:51968->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.iana.org/assignments/tls-parameters/tls-parameters.xml#tls-parameters-8": socks connect tcp 127.0.0.1:1080->www.iana.org:443: read tcp 127.0.0.1:51969->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.iana.org/assignments/tls-parameters/tls-parameters.xml#tls-parameters-9": socks connect tcp 127.0.0.1:1080->www.iana.org:443: read tcp 127.0.0.1:51970->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://mitls.org/pages/attacks/3SHAKE#channelbindings": socks connect tcp 127.0.0.1:1080->mitls.org:443: read tcp 127.0.0.1:51971->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.imperialviolet.org/2014/12/08/poodleagain.html": EOF
+HTTP请求错误： Get "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/Key_Log_Format": socks connect tcp 127.0.0.1:1080->developer.mozilla.org:443: read tcp 127.0.0.1:51972->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.igvita.com/2013/10/24/optimizing-tls-record-size-and-buffering-latency/": socks connect tcp 127.0.0.1:1080->www.igvita.com:443: read tcp 127.0.0.1:51973->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.openssl.org/~bodo/tls-cbc.txt": socks connect tcp 127.0.0.1:1080->www.openssl.org:443: read tcp 127.0.0.1:51974->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://blog.cloudflare.com/yet-another-padding-oracle-in-openssl-cbc-ciphersuites/": EOF
+HTTP请求错误： Get "https://mitls.org/pages/attacks/3SHAKE": socks connect tcp 127.0.0.1:1080->mitls.org:443: read tcp 127.0.0.1:51977->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/49126": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:51978->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.isg.rhul.ac.uk/tls/TLStiming.pdf": socks connect tcp 127.0.0.1:1080->www.isg.rhul.ac.uk:80: read tcp 127.0.0.1:51979->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://opensource.apple.com/source/Security/Security-59306.41.2/base/Security.h": socks connect tcp 127.0.0.1:1080->opensource.apple.com:443: read tcp 127.0.0.1:51980->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://bugzilla.mozilla.org/show_bug.cgi?id=665814": EOF
+HTTP请求错误： Get "http://example.com/bar": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:51981->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com:8080/": socks connect tcp 127.0.0.1:1080->example.com:8080: read tcp 127.0.0.1:51982->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://example.com/wibble#bar": socks connect tcp 127.0.0.1:1080->example.com:443: read tcp 127.0.0.1:51983->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.imperialviolet.org/2012/01/15/beastfollowup.html": EOF
+HTTP请求错误： Get "http://bar.com/": socks connect tcp 127.0.0.1:1080->bar.com:80: read tcp 127.0.0.1:51986->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://bar.com/%5C": socks connect tcp 127.0.0.1:1080->bar.com:80: read tcp 127.0.0.1:51987->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com/": socks connect tcp 127.0.0.1:1080->foo.com:80: read tcp 127.0.0.1:51988->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com/%5C": socks connect tcp 127.0.0.1:1080->foo.com:80: read tcp 127.0.0.1:51989->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://1.2.3.4/": EOF
+HTTP请求错误： Get "http://www.foo.com/": socks connect tcp 127.0.0.1:1080->www.foo.com:80: read tcp 127.0.0.1:51990->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://example.com/test": socks connect tcp 127.0.0.1:1080->example.com:443: read tcp 127.0.0.1:51991->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://example.com/test%5C": socks connect tcp 127.0.0.1:1080->example.com:443: read tcp 127.0.0.1:51992->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://example.com./dsf": socks connect tcp 127.0.0.1:1080->example.com.:443: read tcp 127.0.0.1:51993->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://1.2.3.4:43/": EOF
+HTTP请求错误： Get "https://go.dev/issue/52094": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:51996->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.secg.org/sec1-v2.pdf": socks connect tcp 127.0.0.1:1080->www.secg.org:80: read tcp 127.0.0.1:51997->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://crt.example.com/ca1.crt": socks connect tcp 127.0.0.1:1080->crt.example.com:80: read tcp 127.0.0.1:51998->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://foo.com/wibble#foo": socks connect tcp 127.0.0.1:1080->foo.com:443: read tcp 127.0.0.1:51999->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.openssl.org/docs/man1.0.2/man1/c_rehash.html": EOF
+HTTP请求错误： Get "http://crl1.example.com/ca1.crl": socks connect tcp 127.0.0.1:1080->crl1.example.com:80: read tcp 127.0.0.1:52000->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://crl2.example.com/ca1.crl": socks connect tcp 127.0.0.1:1080->crl2.example.com:80: read tcp 127.0.0.1:52001->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://crt.sh/?id=12721534": socks connect tcp 127.0.0.1:1080->crt.sh:443: read tcp 127.0.0.1:52002->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://epscd.catcert.net/crl/ec-acc.crl": socks connect tcp 127.0.0.1:1080->epscd.catcert.net:80: read tcp 127.0.0.1:52003->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/winsock/windows-sockets-error-codes-2": EOF
+HTTP请求错误： Get "https://example.com/?∞\\": socks connect tcp 127.0.0.1:1080->example.com:443: read tcp 127.0.0.1:52006->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://example.com/_": socks connect tcp 127.0.0.1:1080->example.com:443: read tcp 127.0.0.1:52007->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://example.org/_": socks connect tcp 127.0.0.1:1080->example.org:443: read tcp 127.0.0.1:52008->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Isolation_(database_systems)#Isolation_levels": socks connect tcp 127.0.0.1:1080->en.wikipedia.org:443: read tcp 127.0.0.1:52009->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://epscd2.catcert.net/crl/ec-acc.crl": EOF
+HTTP请求错误： Get "http://www.dwarfstd.org/ShowIssue.php?issue=120604.1": socks connect tcp 127.0.0.1:1080->www.dwarfstd.org:80: read tcp 127.0.0.1:52010->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://dwarfstd.org/doc/dwarf-2.0.0.pdf": socks connect tcp 127.0.0.1:1080->dwarfstd.org:80: read tcp 127.0.0.1:52011->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/security/policy": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52012->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://example.com/": EOF
+HTTP请求错误： Get "https://web.archive.org/web/20090819232456/http://developer.apple.com/documentation/DeveloperTools/Conceptual/MachORuntime/index.html": socks connect tcp 127.0.0.1:1080->web.archive.org:443: read tcp 127.0.0.1:52015->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/debug/pe-format#auxiliary-symbol-records": socks connect tcp 127.0.0.1:1080->docs.microsoft.com:443: read tcp 127.0.0.1:52016->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/debug/pe-format#auxiliary-format-5-section-definitions": socks connect tcp 127.0.0.1:1080->docs.microsoft.com:443: read tcp 127.0.0.1:52017->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/debug/pe-format#comdat-sections-object-only": socks connect tcp 127.0.0.1:1080->docs.microsoft.com:443: read tcp 127.0.0.1:52018->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.sco.com/developers/gabi/latest/ch4.eheader.html": EOF
+HTTP请求错误： Get "http://luca.ntop.org/Teaching/Appunti/asn1.html": socks connect tcp 127.0.0.1:1080->luca.ntop.org:80: read tcp 127.0.0.1:52019->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc5280#section-4.1.2.5.1": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52020->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc7292#appendix-B": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52021->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://developer.apple.com/mac/library/documentation/DeveloperTools/Conceptual/MachORuntime/Reference/reference.html": EOF
+HTTP请求错误： Get "https://go.dev/issue/53693)": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52024->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/56948)": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52025->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://timelessrepo.com/json-isnt-a-javascript-subset": socks connect tcp 127.0.0.1:1080->timelessrepo.com:80: read tcp 127.0.0.1:52026->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/53685)": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52027->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc7159#section-6": EOF
+HTTP请求错误： Get "https://stackoverflow.com/a/13340826": socks connect tcp 127.0.0.1:1080->stackoverflow.com:443: read tcp 127.0.0.1:52028->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc7159#section-9": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52029->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.w3.org/2005/Atom": socks connect tcp 127.0.0.1:1080->www.w3.org:80: read tcp 127.0.0.1:52030->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.json.org/img/number.png": EOF
+HTTP请求错误： Get "http://example.org/": EOF
+HTTP请求错误： Get "http://www.w3.org/2000/xmlns/": socks connect tcp 127.0.0.1:1080->www.w3.org:80: EOF
+HTTP请求错误： Get "http://example.org/2003/12/13/atom03": EOF
+HTTP请求错误： Get "http://www.w3.org/XML/1998/namespace": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/REC-xml/": EOF
+HTTP请求错误： Get "https://go-review.googlesource.com/#/c/5910/": socks connect tcp 127.0.0.1:1080->go-review.googlesource.com:443: EOF
+HTTP请求错误： Get "http://www.w3.org/2001/xmlSchema-instance": socks connect tcp 127.0.0.1:1080->www.w3.org:80: read tcp 127.0.0.1:52039->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com/tests/1?foo=1&bar=baz]]></CDataTest>`": EOF
+HTTP请求错误： Get "http://example.com/tests/1?foo=1&bar=baz": EOF
+HTTP请求错误： Get "http://www.w3.org/2001/XMLSchema-instance": EOF
+HTTP请求错误： Get "http://codereview.appspot.com/": socks connect tcp 127.0.0.1:1080->codereview.appspot.com:80: read tcp 127.0.0.1:52043->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.w3.org/2001/XmLSchema-instance": EOF
+HTTP请求错误： Get "http://codereview.appspot.com/rss/mine/rsc": EOF
+HTTP请求错误： Get "http://codereview.appspot.com/%3C/id%3E%3Cauthor%3E%3Cname%3Erietveld&lt;&gt;%3C/name%3E%3C/author%3E%3Centry%3E%3Ctitle%3Erietveld": EOF
+HTTP请求错误： Get "http://code.google.com/p/rietveld/issues/detail?id=155": socks connect tcp 127.0.0.1:1080->code.google.com:80: read tcp 127.0.0.1:52047->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://codereview.appspot.com/126085": EOF
+HTTP请求错误： Get "http://code.google.com/p/pubsubhubbub": EOF
+HTTP请求错误： Get "http://codereview.appspot.com/124106": EOF
+HTTP请求错误： Get "http://www.w3schools.com/furniture": socks connect tcp 127.0.0.1:1080->www.w3schools.com:80: EOF
+HTTP请求错误： Get "http://codereview.appspot.com/116075/diff/1/2": EOF
+HTTP请求错误： Get "http://www.w3.org/TR/html4/": EOF
+HTTP请求错误： Get "https://www.xml.com/axml/testaxml.htm": EOF
+HTTP请求错误： Get "http://www.w3.org/TR/html4/sgml/entities.html": socks connect tcp 127.0.0.1:1080->www.w3.org:80: EOF
+HTTP请求错误： Get "https://www.w3.org/TR/REC-html40/intro/sgmltut.html#h-3.2.2": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/REC-xml-names/": EOF
+HTTP请求错误： Get "http://www.w3.org/TR/html4/loose.dtd": EOF
+HTTP请求错误： Get "http://example.com/default%3C/link": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:52059->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com/home%3C/link": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:52060->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd": EOF
+HTTP请求错误： Get "http://www.w3.org/1999/02/22-rdf-syntax-ns": EOF
+HTTP请求错误： Get "http://example.com/ns": EOF
+HTTP请求错误： Get "https://www.google.com:30/x/y/z:b::c": socks connect tcp 127.0.0.1:1080->www.google.com:30: read tcp 127.0.0.1:52064->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.com/path/:;!-/?query=%34b#093124": socks connect tcp 127.0.0.1:1080->www.google.com:80: read tcp 127.0.0.1:52065->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/doc/comment": EOF
+HTTP请求错误： Get "http://[::1]:8080/foo.txt": EOF
+HTTP请求错误： Get "http://www.google.com/path/:;!-/?query=%34bar#093124": EOF
+HTTP请求错误： Get "http://www.google.com/index.html!": EOF
+HTTP请求错误： Get "https://www.google.com/": socks connect tcp 127.0.0.1:1080->www.google.com:443: read tcp 127.0.0.1:52070->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.com/index.html": EOF
+HTTP请求错误： Get "http://www.google.com/": EOF
+HTTP请求错误： Get "http://gmail.com": socks connect tcp 127.0.0.1:1080->gmail.com:80: read tcp 127.0.0.1:52073->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com/": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:52074->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.com/path": EOF
+HTTP请求错误： Get "http://en.wikipedia.org/wiki/Camellia_(cipher": EOF
+HTTP请求错误： Get "http://example.com/%2f/": EOF
+HTTP请求错误： Get "http://git.qemu.org/?p=qemu.git;a=blob;f=qapi-schema.json;hb=HEAD": socks connect tcp 127.0.0.1:1080->git.qemu.org:80: read tcp 127.0.0.1:52078->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://foo.bar/bal/x(": socks connect tcp 127.0.0.1:1080->foo.bar:443: read tcp 127.0.0.1:52079->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.example.com/person/][Person": EOF
+HTTP请求错误： Get "https://www.example.com/person/": EOF
+HTTP请求错误： Get "https://foo.bar/bal/x": EOF
+HTTP请求错误： Get "https://pkg.go.dev/encoding/json#Marshal": socks connect tcp 127.0.0.1:1080->pkg.go.dev:443: read tcp 127.0.0.1:52083->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/pkg/": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52084->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://pkg.go.dev/go/doc/comment/#Parser": EOF
+HTTP请求错误： Get "https://pkg.go.dev/go/doc/comment/#Printer)": EOF
+HTTP请求错误： Get "https://go.dev/pkg/encoding/json/#Marshal": EOF
+HTTP请求错误： Get "https://go.dev/](https://go.dev/": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52088->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52089->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/pkg/rsc.io/quote/#NonExist": EOF
+HTTP请求错误： Get "https://go.dev/": EOF
+HTTP请求错误： Get "https://pkg.go.dev": EOF
+HTTP请求错误： Get "https://example.com/%5Bfoo%5D/bar%7B": socks connect tcp 127.0.0.1:1080->example.com:443: read tcp 127.0.0.1:52093->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://duplicate.ignored": EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/John_Adams_(miniseries": EOF
+HTTP请求错误： Get "https://example.com/(foo)/bar!": EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/John%5C_Adams%5C_%28miniseries%29%5D%28https://en.wikipedia.org/wiki/John_Adams_%28miniseries": socks connect tcp 127.0.0.1:1080->en.wikipedia.org:443: read tcp 127.0.0.1:52097->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://example.com/%5C%5Bfoo%5D/bar%5D%28https://example.com/%5Bfoo%5D/bar%29%7B": socks connect tcp 127.0.0.1:1080->example.com:443: read tcp 127.0.0.1:52098->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://example.com/%7Bfoo%7D/bar%7B": EOF
+HTTP请求错误： Get "https://example.com/%29baz%7Bfoo%7D": EOF
+HTTP请求错误： Get "https://example.com/(foo)/bar](https://example.com/(foo)/bar)!": EOF
+HTTP请求错误： Get "https://example.com/](https://example.com/)": socks connect tcp 127.0.0.1:1080->example.com:443: EOF
+HTTP请求错误： Get "https://example.com/[foo]/bar": socks connect tcp 127.0.0.1:1080->example.com:443: read tcp 127.0.0.1:52103->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://example.com/%7Bfoo%7D/bar%5D%28https://example.com/%7Bfoo%7D/bar%29%7B": EOF
+HTTP请求错误： Get "https://example.com/%5D%28https://example.com/%29%29baz%7Bfoo%7D": EOF
+HTTP请求错误： Get "https://example.com/(foo)/bar": EOF
+HTTP请求错误： Get "https://pkg.go.dev/encoding/json#Unmarshal": socks connect tcp 127.0.0.1:1080->pkg.go.dev:443: read tcp 127.0.0.1:52107->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://pkg.go.dev/testing#T": socks connect tcp 127.0.0.1:1080->pkg.go.dev:443: read tcp 127.0.0.1:52108->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://example.com/%7Bfoo%7D/bar": EOF
+HTTP请求错误： Get "https://example.com": EOF
+HTTP请求错误： Get "https://pkg.go.dev/testing#M": EOF
+HTTP请求错误： Get "https://example.com/linkedword": socks connect tcp 127.0.0.1:1080->example.com:443: read tcp 127.0.0.1:52112->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://doi.org/10.1109/SFCS.1985.60": socks connect tcp 127.0.0.1:1080->doi.org:443: read tcp 127.0.0.1:52113->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://pkg.go.dev/testing#B": EOF
+HTTP请求错误： Get "https://pkg.go.dev/testing#PB": EOF
+HTTP请求错误： Get "http://www.slate.com/blogs/the_world_/2014/07/17/the_middle_east_friendship_chart.html": EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Mathematics_of_cyclic_redundancy_checks#Reversed_representations_and_reciprocal_polynomials": socks connect tcp 127.0.0.1:1080->en.wikipedia.org:443: read tcp 127.0.0.1:52117->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/38471": EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Cyclic_redundancy_check": EOF
+HTTP请求错误： Get "https://dx.doi.org/10.1109/26.231911": EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Fowler-Noll-Vo_hash_function": socks connect tcp 127.0.0.1:1080->en.wikipedia.org:443: read tcp 127.0.0.1:52121->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://dx.doi.org/10.1109/DSN.2002.1028931": EOF
+HTTP请求错误： Get "https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/fast-crc-computation-generic-polynomials-pclmulqdq-paper.pdf": EOF
+HTTP请求错误： Get "https://code.google.com/p/smhasher/": EOF
+HTTP请求错误： Get "http://www.whatwg.org/specs/web-apps/current-work/multipage/tokenization.html#consume-a-character-reference": socks connect tcp 127.0.0.1:1080->www.whatwg.org:80: EOF
+HTTP请求错误： Get "https://html.spec.whatwg.org/multipage/parsing.html#numeric-character-reference-end-state": EOF
+HTTP请求错误： Get "https://html.spec.whatwg.org/multipage/named-characters.html": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/html5/Overview.html#attributes-1": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/html5/dom.html#embedding-custom-non-visible-data-with-the-data-*-attributes": socks connect tcp 127.0.0.1:1080->www.w3.org:443: read tcp 127.0.0.1:52129->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.w3.org/TR/html5/webappapis.html#event-handlers-on-elements,-document-objects,-and-window-objects": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/html4/index/attributes.html": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/css3-syntax/#parsing": EOF
+HTTP请求错误： Get "http://godoc.org/?q={{.}}": socks connect tcp 127.0.0.1:1080->godoc.org:80: EOF
+HTTP请求错误： Get "https://www.w3.org/TR/html5/syntax.html#the-end": socks connect tcp 127.0.0.1:1080->www.w3.org:443: read tcp 127.0.0.1:52134->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://web.archive.org/web/20090211114933/http://w3.org/TR/css3-syntax#style": EOF
+HTTP请求错误： Get "http://godoc.org/": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/html5/syntax.html#elements-0": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/css3-syntax/#TOK-URI": socks connect tcp 127.0.0.1:1080->www.w3.org:443: read tcp 127.0.0.1:52138->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://auth/path?k=v#frag": EOF
+HTTP请求错误： Get "http://auth/path?^k=v#frag%5E": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/css3-syntax/#SUBTOK-nmchar": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/css3-syntax/#SUBTOK-unicode": socks connect tcp 127.0.0.1:1080->www.w3.org:443: read tcp 127.0.0.1:52142->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.w3.org/TR/css3-syntax/#SUBTOK-escape": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/css3-syntax/#SUBTOK-stringchar": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/css3-syntax/#error-handling": EOF
+HTTP请求错误： Get "http://example.com/foo/bar?a=b&c=d": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:52146->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com/foo/bar?a=b&amp;c=d": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:52147->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://rawgit.com/mikesamuel/sanitized-jquery-templates/trunk/safetemplate.html#problem_definition": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/html5/syntax.html#attribute-value-(unquoted)-state": EOF
+HTTP请求错误： Get "http://oreilly.com/O": EOF
+HTTP请求错误： Get "http://www.example.com/?q=%2f%2a%2a%2f%27%22%3b%3a%2f%2f%20%5c": socks connect tcp 127.0.0.1:1080->www.example.com:80: EOF
+HTTP请求错误： Get "http://www.example.com/?q={{": EOF
+HTTP请求错误： Get "http://oreilly.com/O%27Reilly%20Animals%281%29%3c2%3e;%7b%7d.html": EOF
+HTTP请求错误： Get "http://www.foo.com/index.html?title=main`": EOF
+HTTP请求错误： Get "https://www.mozilla.org/js/language/js20-2000-07/rationale/syntax.html": socks connect tcp 127.0.0.1:1080->www.mozilla.org:443: read tcp 127.0.0.1:52155->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.w3.org/TR/html5/scripting-1.html#attr-script-type": socks connect tcp 127.0.0.1:1080->www.w3.org:443: read tcp 127.0.0.1:52156->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.example.org/": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/html5/syntax.html#before-attribute-value-state": EOF
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc7231#section-3.1.1": EOF
+HTTP请求错误： Get "https://dev.w3.org/html5/markup/aria/syntax.html#escaping-text-span": socks connect tcp 127.0.0.1:1080->dev.w3.org:443: read tcp 127.0.0.1:52160->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://code.google.com/p/doctype/wiki/ArticleUtf7": socks connect tcp 127.0.0.1:1080->code.google.com:443: read tcp 127.0.0.1:52161->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc4329#section-3": EOF
+HTTP请求错误： Get "https://www.ietf.org/rfc/rfc4627.txt": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/html5/index.html#attributes-1": EOF
+HTTP请求错误： Get "http://example.com:80/foo/bar?q=foo%20&bar=x+y#frag": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:52165->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com/img.png": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:52166->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.w3.org/TR/css3-syntax/#SUBTOK-nl": EOF
+HTTP请求错误： Get "https://infra.spec.whatwg.org/#ascii-whitespace": EOF
+HTTP请求错误： Get "http://example.com:80/foo?q=bar%20&baz=x+y#frag": EOF
+HTTP请求错误： Get "https://www.w3.org/Graphics/JPEG/jfif3.pdf": socks connect tcp 127.0.0.1:1080->www.w3.org:443: EOF
+HTTP请求错误： Get "https://9p.io/magic/man2html/6/color": EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Web_colors#Web-safe_colors": EOF
+HTTP请求错误： Get "http://www.ijg.org/files/jpegsrc.v8c.tar.gz": EOF
+HTTP请求错误： Get "https://www.sno.phy.queensu.ca/~phil/exiftool/TagNames/JPEG.html": socks connect tcp 127.0.0.1:1080->www.sno.phy.queensu.ca:443: read tcp 127.0.0.1:52174->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.sno.phy.queensu.ca/~phil/exiftool/TagNames/JPEG.html#Adobe": socks connect tcp 127.0.0.1:1080->www.sno.phy.queensu.ca:443: read tcp 127.0.0.1:52175->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_IEC_13818-4_2004_Conformance_Testing/Video/verifier/mpeg2decode_960109.tar.gz": EOF
+HTTP请求错误： Get "https://www.w3.org/Graphics/JPEG/itu-t81.pdf": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/PNG/": EOF
+HTTP请求错误： Get "https://go.dev/issue/54325": socks connect tcp 127.0.0.1:1080->go.dev:443: EOF
+HTTP请求错误： Get "https://www.w3.org/TR/PNG/#5ChunkOrdering": EOF
+HTTP请求错误： Get "https://www.w3.org/TR/PNG/#8Interlace": EOF
+HTTP请求错误： Get "http://www.libpng.org/pub/png/book/chapter09.html": EOF
+HTTP请求错误： Get "https://sites.google.com/site/yuta256/sais": socks connect tcp 127.0.0.1:1080->sites.google.com:443: read tcp 127.0.0.1:52183->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://ieeexplore.ieee.org/document/5582081": EOF
+HTTP请求错误： Get "http://zork.net/~st/jottings/sais.html": EOF
+HTTP请求错误： Get "https://research.swtch.com/tgs170.pdf": EOF
+HTTP请求错误： Get "https://www.cs.dartmouth.edu/~doug/diff.pdf": EOF
+HTTP请求错误： Get "https://go.dev/issue/51526": EOF
+HTTP请求错误： Get "https://www.pcg-random.org/": EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Circular_buffer": socks connect tcp 127.0.0.1:1080->en.wikipedia.org:443: EOF
+HTTP请求错误： Get "https://go.dev/issue/14449": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52191->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://lemire.me/blog/2016/06/27/a-fast-alternative-to-the-modulo-reduction": EOF
+HTTP请求错误： Get "https://lemire.me/blog/2016/06/30/fast-random-shuffling": EOF
+HTTP请求错误： Get "https://go.dev/issue/8912": EOF
+HTTP请求错误： Get "https://support.microsoft.com/kb/2568167": socks connect tcp 127.0.0.1:1080->support.microsoft.com:443: read tcp 127.0.0.1:52195->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://support.microsoft.com/kb/263823": socks connect tcp 127.0.0.1:1080->support.microsoft.com:80: read tcp 127.0.0.1:52196->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://man7.org/linux/man-pages/man2/copy_file_range.2.html#VERSIONS": EOF
+HTTP请求错误： Get "https://lore.kernel.org/linux-fsdevel/20210126233840.GG4626@dread.disaster.area/T/#m05753578c7f7882f6e9ffe01f981bc223edef2b0": EOF
+HTTP请求错误： Get "https://stackoverflow.com/a/42019668/332798": EOF
+HTTP请求错误： Get "https://msdn.microsoft.com/library/windows/desktop/ms724872.aspx": socks connect tcp 127.0.0.1:1080->msdn.microsoft.com:443: read tcp 127.0.0.1:52200->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/windows/desktop/ms724878.aspx": EOF
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/api/mswsock/nf-mswsock-transmitfile": EOF
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/cc232007.aspx": EOF
+HTTP请求错误： Get "https://do.dev/issue/50973": socks connect tcp 127.0.0.1:1080->do.dev:443: EOF
+HTTP请求错误： Get "https://code.google.com/p/android-developer-preview/issues/detail?id=3150": socks connect tcp 127.0.0.1:1080->code.google.com:443: read tcp 127.0.0.1:52205->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/cc232006.aspx": EOF
+HTTP请求错误： Get "https://go.dev/issue/34297": EOF
+HTTP请求错误： Get "https://go.dev/play/p/PHcZNGJTEBZ": EOF
+HTTP请求错误： Get "https://go.dev/issue/23199": EOF
+HTTP请求错误： Get "https://keisan.casio.com/": socks connect tcp 127.0.0.1:1080->keisan.casio.com:443: read tcp 127.0.0.1:52209->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.jhauser.us/arithmetic/TestFloat.html": socks connect tcp 127.0.0.1:1080->www.jhauser.us:80: read tcp 127.0.0.1:52210->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://netlib.sandia.gov/cephes/cmath/atan.c": socks connect tcp 127.0.0.1:1080->netlib.sandia.gov:80: read tcp 127.0.0.1:52211->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.netlib.org/cephes/cmath.tgz": socks connect tcp 127.0.0.1:1080->www.netlib.org:80: read tcp 127.0.0.1:52212->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://godoc.org/?q=syslog": EOF
+HTTP请求错误： Get "http://www.vinc17.net/research/papers/rnc6.pdf": socks connect tcp 127.0.0.1:1080->www.vinc17.net:80: read tcp 127.0.0.1:52215->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.exploringbinary.com/php-hangs-on-numeric-value-2-2250738585072011e-308/": socks connect tcp 127.0.0.1:1080->www.exploringbinary.com:443: read tcp 127.0.0.1:52216->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.exploringbinary.com/java-hangs-when-converting-2-2250738585072012e-308/": socks connect tcp 127.0.0.1:1080->www.exploringbinary.com:443: read tcp 127.0.0.1:52217->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://yacas.sourceforge.net/Algo.book.pdf": socks connect tcp 127.0.0.1:1080->yacas.sourceforge.net:80: read tcp 127.0.0.1:52218->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://netlib.sandia.gov/cephes/": EOF
+HTTP请求错误： Get "https://www.maa.org/sites/default/files/pdf/upload_library/22/Polya/07468342.di020786.02p0470a.pdf": socks connect tcp 127.0.0.1:1080->www.maa.org:443: read tcp 127.0.0.1:52219->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://eprint.iacr.org/2011/239.pdf": socks connect tcp 127.0.0.1:1080->eprint.iacr.org:443: read tcp 127.0.0.1:52220->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.people.vcu.edu/~jwang3/CMSC691/j34monex.pdf": socks connect tcp 127.0.0.1:1080->www.people.vcu.edu:80: read tcp 127.0.0.1:52221->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.mpfr.org/": EOF
+HTTP请求错误： Get "https://www.ams.org/journals/mcom/2001-70-234/S0025-5718-00-01197-2/S0025-5718-00-01197-2.pdf": socks connect tcp 127.0.0.1:1080->www.ams.org:443: read tcp 127.0.0.1:52224->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://oeis.org/A217719": socks connect tcp 127.0.0.1:1080->oeis.org:443: read tcp 127.0.0.1:52225->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://ntheory.org/pseudoprimes.html": socks connect tcp 127.0.0.1:1080->ntheory.org:80: read tcp 127.0.0.1:52226->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://web.archive.org/web/20191121062007/http://www.trnicely.net/misc/bpsw.html": socks connect tcp 127.0.0.1:1080->web.archive.org:443: read tcp 127.0.0.1:52227->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://members.loria.fr/PZimmermann/mca/pub226.html": EOF
+HTTP请求错误： Get "https://oeis.org/A217719/a217719.txt": socks connect tcp 127.0.0.1:1080->oeis.org:443: read tcp 127.0.0.1:52228->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://primes.utm.edu/lists/small/small3.html": socks connect tcp 127.0.0.1:1080->primes.utm.edu:443: read tcp 127.0.0.1:52229->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/draft-ladd-safecurves-02": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52230->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://oeis.org/A001262": socks connect tcp 127.0.0.1:1080->oeis.org:443: read tcp 127.0.0.1:52231->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.ams.org/journals/mcom/1980-35-152/S0025-5718-1980-0583518-6/S0025-5718-1980-0583518-6.pdf": EOF
+HTTP请求错误： Get "http://netlib.sandia.gov/cephes/c9x-complex/clog.c": socks connect tcp 127.0.0.1:1080->netlib.sandia.gov:80: read tcp 127.0.0.1:52234->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://oeis.org/A001113": socks connect tcp 127.0.0.1:1080->oeis.org:443: read tcp 127.0.0.1:52235->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://oeis.org/A000796": socks connect tcp 127.0.0.1:1080->oeis.org:443: read tcp 127.0.0.1:52236->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://oeis.org/A001622": socks connect tcp 127.0.0.1:1080->oeis.org:443: read tcp 127.0.0.1:52237->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://supertech.csail.mit.edu/papers/debruijn.pdf": EOF
+HTTP请求错误： Get "https://oeis.org/A002193": socks connect tcp 127.0.0.1:1080->oeis.org:443: read tcp 127.0.0.1:52238->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://oeis.org/A019774": socks connect tcp 127.0.0.1:1080->oeis.org:443: read tcp 127.0.0.1:52239->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://oeis.org/A002161": socks connect tcp 127.0.0.1:1080->oeis.org:443: read tcp 127.0.0.1:52240->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://oeis.org/A139339": socks connect tcp 127.0.0.1:1080->oeis.org:443: read tcp 127.0.0.1:52241->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.netlib.org/fdlibm/s_cbrt.c": EOF
+HTTP请求错误： Get "https://www.jstor.org/stable/2347330": socks connect tcp 127.0.0.1:1080->www.jstor.org:443: read tcp 127.0.0.1:52244->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://link.springer.com/article/10.1007/s00450-010-0108-2": socks connect tcp 127.0.0.1:1080->link.springer.com:443: read tcp 127.0.0.1:52245->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://freshmeat.net/projects/sleef": socks connect tcp 127.0.0.1:1080->freshmeat.net:80: read tcp 127.0.0.1:52246->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://netlib.sandia.gov/cephes/cprob/gamma.c": socks connect tcp 127.0.0.1:1080->netlib.sandia.gov:80: read tcp 127.0.0.1:52247->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://oeis.org/A002162": EOF
+HTTP请求错误： Get "https://www.jstatsoft.org/v05/i08/paper": socks connect tcp 127.0.0.1:1080->www.jstatsoft.org:443: read tcp 127.0.0.1:52248->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.jstatsoft.org/v05/i08/paper": socks connect tcp 127.0.0.1:1080->www.jstatsoft.org:80: read tcp 127.0.0.1:52249->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle": socks connect tcp 127.0.0.1:1080->en.wikipedia.org:443: read tcp 127.0.0.1:52250->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Lehmer_code": socks connect tcp 127.0.0.1:1080->en.wikipedia.org:443: read tcp 127.0.0.1:52251->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://oeis.org/A002392": EOF
+HTTP请求错误： Get "http://eeyore.wu-wien.ac.at/papers/96-04-04.wh-der.ps.gz": socks connect tcp 127.0.0.1:1080->eeyore.wu-wien.ac.at:80: read tcp 127.0.0.1:52254->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://netlib.sandia.gov/cephes/cmath/sin.c": socks connect tcp 127.0.0.1:1080->netlib.sandia.gov:80: read tcp 127.0.0.1:52255->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc2047#section-2": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52256->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://greenbytes.de/tech/tc2231/": socks connect tcp 127.0.0.1:1080->greenbytes.de:80: read tcp 127.0.0.1:52257->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Pearson%27s_chi-squared_test": EOF
+HTTP请求错误： Get "https://datatracker.ietf.org/doc/html/rfc2231": socks connect tcp 127.0.0.1:1080->datatracker.ietf.org:443: read tcp 127.0.0.1:52258->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc2183": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52259->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc2046#section-5.1": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52260->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://codereview.appspot.com/95760043/": socks connect tcp 127.0.0.1:1080->codereview.appspot.com:443: read tcp 127.0.0.1:52261->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://codereview.appspot.com/117600043/": socks connect tcp 127.0.0.1:1080->codereview.appspot.com:443: read tcp 127.0.0.1:52262->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.johndcook.com/Beautiful_Testing_ch10.pdf": EOF
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc6724#section-2.2": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52265->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man5/resolv.conf.5": socks connect tcp 127.0.0.1:1080->www.openbsd.org:443: read tcp 127.0.0.1:52266->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/37795": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52267->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://dnsflagday.net/2020/": socks connect tcp 127.0.0.1:1080->dnsflagday.net:443: read tcp 127.0.0.1:52268->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://fr.wikipedia.org/wiki/Quoted-Printable": EOF
+HTTP请求错误： Get "http://man7.org/linux/man-pages/man5/resolv.conf.5.html": socks connect tcp 127.0.0.1:1080->man7.org:80: read tcp 127.0.0.1:52269->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.freebsd.org/cgi/man.cgi?query=resolv.conf&sektion=5&manpath=freebsd-release-ports": socks connect tcp 127.0.0.1:1080->www.freebsd.org:443: read tcp 127.0.0.1:52270->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://man.openbsd.org/resolv.conf.5": socks connect tcp 127.0.0.1:1080->man.openbsd.org:443: read tcp 127.0.0.1:52271->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://web.archive.org/web/20170105004655/http://docstore.mik.ua/orelly/linux/cgi/ch03_02.htm#ch03-35636": socks connect tcp 127.0.0.1:1080->web.archive.org:443: read tcp 127.0.0.1:52272->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://specifications.freedesktop.org/shared-mime-info-spec/shared-mime-info-spec-0.21.html": EOF
+HTTP请求错误： Get "http://example.com/dir/scriptname/p1/p2?a=1&b=2": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:52275->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com/test.cgi?bigresponse=1": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:52276->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com/test.cgi?write-forever=1": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:52277->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc7231#section-5.5.2": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52278->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com/path?a=b": EOF
+HTTP请求错误： Get "https://www.ietf.org/rfc/rfc2617.txt": socks connect tcp 127.0.0.1:1080->www.ietf.org:443: read tcp 127.0.0.1:52279->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://dummy.faketld/": socks connect tcp 127.0.0.1:1080->dummy.faketld:80: read tcp 127.0.0.1:52280->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://example.com/path?a=b": EOF
+HTTP请求错误： Get "http://firsthost.fake/nosetcookie": socks connect tcp 127.0.0.1:1080->firsthost.fake:80: read tcp 127.0.0.1:52283->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://some-other-host.tld/": socks connect tcp 127.0.0.1:1080->some-other-host.tld:443: read tcp 127.0.0.1:52284->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://My User:***@dummy.faketld/": socks connect tcp 127.0.0.1:1080->dummy.faketld:80: read tcp 127.0.0.1:52285->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://My%20User@dummy.faketld/": socks connect tcp 127.0.0.1:1080->dummy.faketld:80: read tcp 127.0.0.1:52286->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://secondhost.fake/secondpath": EOF
+HTTP请求错误： Get "http://user:***@dummy.faketld/": socks connect tcp 127.0.0.1:1080->dummy.faketld:80: read tcp 127.0.0.1:52287->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://user:***@dummy.faketld/": socks connect tcp 127.0.0.1:1080->dummy.faketld:80: read tcp 127.0.0.1:52288->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://user:***@password.faketld/": socks connect tcp 127.0.0.1:1080->password.faketld:80: read tcp 127.0.0.1:52289->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://user:***@password.faketld/": socks connect tcp 127.0.0.1:1080->password.faketld:80: read tcp 127.0.0.1:52290->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://firsthost.fake/": EOF
+HTTP请求错误： Get "http://user:***@dummy.faketld/": socks connect tcp 127.0.0.1:1080->dummy.faketld:80: read tcp 127.0.0.1:52293->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.example.com/": socks connect tcp 127.0.0.1:1080->www.example.com:80: read tcp 127.0.0.1:52294->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://foo.com/": socks connect tcp 127.0.0.1:1080->foo.com:443: read tcp 127.0.0.1:52295->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com:1234/": socks connect tcp 127.0.0.1:1080->foo.com:1234: read tcp 127.0.0.1:52296->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://user:***@dummy.faketld/password": EOF
+HTTP请求错误： Get "http://foo.com:4321/": socks connect tcp 127.0.0.1:1080->foo.com:4321: read tcp 127.0.0.1:52297->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://sub.foo.com/": socks connect tcp 127.0.0.1:1080->sub.foo.com:80: read tcp 127.0.0.1:52298->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://notfoo.com/": socks connect tcp 127.0.0.1:1080->notfoo.com:80: read tcp 127.0.0.1:52299->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com:80/": socks connect tcp 127.0.0.1:1080->foo.com:80: read tcp 127.0.0.1:52300->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://user:***@dummy.faketld/password": EOF
+HTTP请求错误： Get "https://example.tld/": socks connect tcp 127.0.0.1:1080->example.tld:443: read tcp 127.0.0.1:52303->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc6265": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52304->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/draft-ietf-httpbis-cookie-same-site-00": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52305->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc6265#section-4.1.1": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52306->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com:443/": EOF
+HTTP请求错误： Get "https://sub.foo.com/": EOF
+HTTP请求错误： Get "https://www.host.test/": socks connect tcp 127.0.0.1:1080->www.host.test:443: read tcp 127.0.0.1:52309->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.host.test/some/path": socks connect tcp 127.0.0.1:1080->www.host.test:443: read tcp 127.0.0.1:52310->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.host.test/some": socks connect tcp 127.0.0.1:1080->www.host.test:80: read tcp 127.0.0.1:52311->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.host.test/some/": socks connect tcp 127.0.0.1:1080->www.host.test:80: read tcp 127.0.0.1:52312->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.host.test/": EOF
+HTTP请求错误： Get "http://www.host.test/some/paths": socks connect tcp 127.0.0.1:1080->www.host.test:80: read tcp 127.0.0.1:52313->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.host.test/some/path/foo": socks connect tcp 127.0.0.1:1080->www.host.test:80: read tcp 127.0.0.1:52314->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.host.test/some/path/foo/": socks connect tcp 127.0.0.1:1080->www.host.test:80: read tcp 127.0.0.1:52315->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.host.test/some/path": EOF
+HTTP请求错误： Get "http://www.host.test/foo/bar/baz/qux": socks connect tcp 127.0.0.1:1080->www.host.test:80: read tcp 127.0.0.1:52318->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.host.test/foo/bar/baz/": socks connect tcp 127.0.0.1:1080->www.host.test:80: read tcp 127.0.0.1:52319->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.host.test/foo/bar": socks connect tcp 127.0.0.1:1080->www.host.test:80: read tcp 127.0.0.1:52320->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.host.test/path": socks connect tcp 127.0.0.1:1080->www.host.test:80: read tcp 127.0.0.1:52321->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.host.test/some/path/": EOF
+HTTP请求错误： Get "http://www.host.test/path/foo": socks connect tcp 127.0.0.1:1080->www.host.test:80: read tcp 127.0.0.1:52322->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.host.test:8080/": socks connect tcp 127.0.0.1:1080->www.host.test:8080: read tcp 127.0.0.1:52323->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.host.test:1234/": socks connect tcp 127.0.0.1:1080->www.host.test:1234: read tcp 127.0.0.1:52324->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.host.test/some/path/index.html": EOF
+HTTP请求错误： Get "http://src.chromium.org/viewvc/chrome/trunk/src/net/cookies/cookie_store_unittest.h?revision=159685&content-type=text/plain": socks connect tcp 127.0.0.1:1080->src.chromium.org:80: read tcp 127.0.0.1:52327->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://1.2.3.4/foo": socks connect tcp 127.0.0.1:1080->1.2.3.4:80: read tcp 127.0.0.1:52328->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://com./index.html": socks connect tcp 127.0.0.1:1080->com.:80: read tcp 127.0.0.1:52329->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://no-cookies.com./index.html": socks connect tcp 127.0.0.1:1080->no-cookies.com.:80: read tcp 127.0.0.1:52330->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.host.test/foo": EOF
+HTTP请求错误： Get "http://www.google.izzle/wee": socks connect tcp 127.0.0.1:1080->www.google.izzle:80: read tcp 127.0.0.1:52331->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.izzle/wee/": socks connect tcp 127.0.0.1:1080->www.google.izzle:80: read tcp 127.0.0.1:52332->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.izzle/wee/war": socks connect tcp 127.0.0.1:1080->www.google.izzle:80: read tcp 127.0.0.1:52333->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.izzle/wee/war/more/more": socks connect tcp 127.0.0.1:1080->www.google.izzle:80: read tcp 127.0.0.1:52334->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.izzle/weehee": socks connect tcp 127.0.0.1:1080->www.google.izzle:80: read tcp 127.0.0.1:52335->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.izzle/": socks connect tcp 127.0.0.1:1080->www.google.izzle:80: read tcp 127.0.0.1:52336->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com/upload": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:52337->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com/form": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:52338->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.com/robots.txt": socks connect tcp 127.0.0.1:1080->www.google.com:80: read tcp 127.0.0.1:52339->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://127.0.0.1:8443/": socks connect tcp 127.0.0.1:1080->127.0.0.1:8443: read tcp 127.0.0.1:52340->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://web.archive.org/web/20150420080736/http://www.fastcgi.com/drupal/node/6?q=node/22#S8": socks connect tcp 127.0.0.1:1080->web.archive.org:443: read tcp 127.0.0.1:52341->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc7232": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52342->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc20#section-4.2": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52343->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.iana.org/assignments/tls-parameters/tls-parameters.txt": socks connect tcp 127.0.0.1:1080->www.iana.org:443: read tcp 127.0.0.1:52344->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc7540#appendix-A": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52345->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7540.html#rfc.section.11.2": socks connect tcp 127.0.0.1:1080->httpwg.org:443: read tcp 127.0.0.1:52346->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7540.html#FrameHeader": socks connect tcp 127.0.0.1:1080->httpwg.org:443: read tcp 127.0.0.1:52347->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7540.html#rfc.section.6.1": socks connect tcp 127.0.0.1:1080->httpwg.org:443: read tcp 127.0.0.1:52348->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7540.html#SETTINGS": socks connect tcp 127.0.0.1:1080->httpwg.org:443: read tcp 127.0.0.1:52349->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7540.html#rfc.section.6.7": socks connect tcp 127.0.0.1:1080->httpwg.org:443: read tcp 127.0.0.1:52350->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7540.html#rfc.section.6.8": socks connect tcp 127.0.0.1:1080->httpwg.org:443: read tcp 127.0.0.1:52351->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7540.html#rfc.section.6.9": socks connect tcp 127.0.0.1:1080->httpwg.org:443: read tcp 127.0.0.1:52352->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7540.html#rfc.section.6.3": socks connect tcp 127.0.0.1:1080->httpwg.org:443: read tcp 127.0.0.1:52353->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7540.html#rfc.section.6.4": socks connect tcp 127.0.0.1:1080->httpwg.org:443: read tcp 127.0.0.1:52354->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7540.html#rfc.section.6.10": socks connect tcp 127.0.0.1:1080->httpwg.org:443: read tcp 127.0.0.1:52355->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7540.html#rfc.section.6.6": socks connect tcp 127.0.0.1:1080->httpwg.org:443: read tcp 127.0.0.1:52356->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7540.html#rfc.section.6.5.2": socks connect tcp 127.0.0.1:1080->httpwg.org:443: read tcp 127.0.0.1:52357->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7540.html#SettingValues": socks connect tcp 127.0.0.1:1080->httpwg.org:443: read tcp 127.0.0.1:52358->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://tools.ietf.org/html/rfc7540#section-5.1": socks connect tcp 127.0.0.1:1080->tools.ietf.org:80: read tcp 127.0.0.1:52359->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://lists.w3.org/Archives/Public/ietf-http-wg/2016JulSep/0599.html": socks connect tcp 127.0.0.1:1080->lists.w3.org:443: read tcp 127.0.0.1:52360->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7540.html#SettingFormat": socks connect tcp 127.0.0.1:1080->httpwg.org:443: read tcp 127.0.0.1:52361->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7540.html#iana-settings": socks connect tcp 127.0.0.1:1080->httpwg.org:443: read tcp 127.0.0.1:52362->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/58446": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52363->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.com/foo": EOF
+HTTP请求错误： Get "http://tools.ietf.org/html/rfc7540#section-5.1.2": socks connect tcp 127.0.0.1:1080->tools.ietf.org:80: read tcp 127.0.0.1:52366->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://httpwg.org/specs/rfc7231.html#status.codes": socks connect tcp 127.0.0.1:1080->httpwg.org:80: read tcp 127.0.0.1:52367->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://tools.ietf.org/html/rfc7540#section-6.6": socks connect tcp 127.0.0.1:1080->tools.ietf.org:80: read tcp 127.0.0.1:52368->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://tools.ietf.org/html/rfc7540#section-8.2": socks connect tcp 127.0.0.1:1080->tools.ietf.org:80: read tcp 127.0.0.1:52369->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://tools.ietf.org/html/rfc7540#section-6.8": EOF
+HTTP请求错误： Get "http://tools.ietf.org/html/rfc7540#section-6.5.2": socks connect tcp 127.0.0.1:1080->tools.ietf.org:80: read tcp 127.0.0.1:52370->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://httpwg.org/specs/rfc7540.html#rfc.section.8.1.2.2": socks connect tcp 127.0.0.1:1080->httpwg.org:80: read tcp 127.0.0.1:52371->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://datatracker.ietf.org/doc/html/rfc7540#section-6.5.2": socks connect tcp 127.0.0.1:1080->datatracker.ietf.org:443: read tcp 127.0.0.1:52372->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://zlib.net/zlib_faq.html#faq39": socks connect tcp 127.0.0.1:1080->zlib.net:443: read tcp 127.0.0.1:52373->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://trac.nginx.org/nginx/ticket/358": socks connect tcp 127.0.0.1:1080->trac.nginx.org:80: read tcp 127.0.0.1:52374->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc7540#section-5.1": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52375->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://docs.google.com/document/d/1oLhNg1skaWD4_DtaoCxdSRN5erEXrH-KnLrMwEpOtFY": socks connect tcp 127.0.0.1:1080->docs.google.com:443: read tcp 127.0.0.1:52376->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc7540#section-8.2": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52377->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com/path/%2f/bar/": socks connect tcp 127.0.0.1:1080->foo.com:80: read tcp 127.0.0.1:52378->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://foo.com/path/": socks connect tcp 127.0.0.1:1080->foo.com:443: read tcp 127.0.0.1:52379->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7231.html#status.codes": socks connect tcp 127.0.0.1:1080->httpwg.org:443: read tcp 127.0.0.1:52380->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.rfc-editor.org/errata_search.php?eid=4522": socks connect tcp 127.0.0.1:1080->www.rfc-editor.org:443: read tcp 127.0.0.1:52381->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.w3.org/TR/eventsource/#text-event-stream": socks connect tcp 127.0.0.1:1080->www.w3.org:443: read tcp 127.0.0.1:52382->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://fake.tld/": socks connect tcp 127.0.0.1:1080->fake.tld:80: read tcp 127.0.0.1:52383->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.tld/": socks connect tcp 127.0.0.1:1080->foo.tld:80: read tcp 127.0.0.1:52384->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.google.com/favicon.ico": socks connect tcp 127.0.0.1:1080->www.google.com:443: read tcp 127.0.0.1:52385->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://tools.ietf.org/html/rfc7540#section-5.1.1": EOF
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc7230#section-5.4": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52388->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc7230#section-2.7": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52389->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc3986#section-3.2.2": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52390->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.com/search?q=foo&q=bar": socks connect tcp 127.0.0.1:1080->www.google.com:80: read tcp 127.0.0.1:52391->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.techcrunch.com/": EOF
+HTTP请求错误： Get "http://www.google.com/search?q=foo;q=bar&a=1": socks connect tcp 127.0.0.1:1080->www.google.com:80: read tcp 127.0.0.1:52392->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.com/search?q=foo&q=bar&both=x&prio=1&orphan=nope&empty=not": socks connect tcp 127.0.0.1:1080->www.google.com:80: read tcp 127.0.0.1:52393->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.com/search": socks connect tcp 127.0.0.1:1080->www.google.com:80: read tcp 127.0.0.1:52394->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.com/search?q=foo": socks connect tcp 127.0.0.1:1080->www.google.com:80: read tcp 127.0.0.1:52395->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.example.com:8080/": socks connect tcp 127.0.0.1:1080->www.example.com:8080: read tcp 127.0.0.1:52396->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://192.168.0.1/": socks connect tcp 127.0.0.1:1080->192.168.0.1:80: read tcp 127.0.0.1:52397->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://codereview.appspot.com/7532043": EOF
+HTTP请求错误： Get "http://192.168.0.1:8080/": EOF
+HTTP请求错误： Get "http://y.google.com/%2F/%2F/": socks connect tcp 127.0.0.1:1080->y.google.com:80: EOF
+HTTP请求错误： Get "http://bar.com/baz": socks connect tcp 127.0.0.1:1080->bar.com:80: read tcp 127.0.0.1:52402->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.example/": EOF
+HTTP请求错误： Get "https://example.org/": EOF
+HTTP请求错误： Get "http://bar.com/foo": EOF
+HTTP请求错误： Get "https://developer.chrome.com/articles/fetch-streaming-requests/#feature-detection": socks connect tcp 127.0.0.1:1080->developer.chrome.com:443: EOF
+HTTP请求错误： Get "https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch#Parameters": EOF
+HTTP请求错误： Get "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get#defining_a_getter_on_existing_objects_using_defineproperty": socks connect tcp 127.0.0.1:1080->developer.mozilla.org:443: read tcp 127.0.0.1:52407->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/57613": EOF
+HTTP请求错误： Get "https://html.spec.whatwg.org/multipage/webappapis.html#api-base-url": EOF
+HTTP请求错误： Get "https://fetch.spec.whatwg.org/#dom-requestinit-duplex": socks connect tcp 127.0.0.1:1080->fetch.spec.whatwg.org:443: read tcp 127.0.0.1:52411->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://developer.mozilla.org/en-US/docs/Web/API/Headers/entries": socks connect tcp 127.0.0.1:1080->developer.mozilla.org:443: read tcp 127.0.0.1:52412->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://developer.mozilla.org/en-US/docs/Web/API/AbortController#Browser_compatibility": EOF
+HTTP请求错误： Get "https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch": EOF
+HTTP请求错误： Get "https://datatracker.ietf.org/doc/html/rfc2616/#section-14.13": EOF
+HTTP请求错误： Get "https://fetch.spec.whatwg.org/#readablestream": socks connect tcp 127.0.0.1:1080->fetch.spec.whatwg.org:443: read tcp 127.0.0.1:52416->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError": socks connect tcp 127.0.0.1:1080->developer.mozilla.org:443: read tcp 127.0.0.1:52417->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://developer.mozilla.org/en-US/docs/Web/API/Body/arrayBuffer": EOF
+HTTP请求错误： Get "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error": EOF
+HTTP请求错误： Get "https://streams.spec.whatwg.org/#byob-reader-read": EOF
+HTTP请求错误： Get "https://fetch.spec.whatwg.org/#concept-body-consume-body": EOF
+HTTP请求错误： Get "http://someHost.com/someDir/apage": EOF
+HTTP请求错误： Get "http://otherHost.com/someDir/apage": EOF
+HTTP请求错误： Get "http://example.com/pkg/foo": socks connect tcp 127.0.0.1:1080->example.com:80: EOF
+HTTP请求错误： Get "http://example.com/pkg/bar": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:52425->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://otherHost.com/aDir/apage": EOF
+HTTP请求错误： Get "http://someHost.com/someDir": EOF
+HTTP请求错误： Get "http://example.com/pkg/bar/": EOF
+HTTP请求错误： Get "http://example.com:3000/": socks connect tcp 127.0.0.1:1080->example.com:3000: read tcp 127.0.0.1:52429->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com:9000/": socks connect tcp 127.0.0.1:1080->example.com:9000: read tcp 127.0.0.1:52430->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com/pkg/baz": EOF
+HTTP请求错误： Get "http://example.com:3000/pkg/foo": EOF
+HTTP请求错误： Get "http://example.com:3000/pkg/baz": EOF
+HTTP请求错误： Get "http://example.com/qux/": socks connect tcp 127.0.0.1:1080->example.com:80: EOF
+HTTP请求错误： Get "http://foobar.com/baz": socks connect tcp 127.0.0.1:1080->foobar.com:80: read tcp 127.0.0.1:52435->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com:3000/pkg/connect": EOF
+HTTP请求错误： Get "https://go.dev/issue/56019": EOF
+HTTP请求错误： Get "https://foobar.com/baz": EOF
+HTTP请求错误： Get "http://example.com": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:52439->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/20253": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52440->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com/%D1%84%D1%83%D0%B1%D0%B0%D1%80": EOF
+HTTP请求错误： Get "http://foo.com/%d1%84%d1%83%d0%b1%d0%b0%d1%80": EOF
+HTTP请求错误： Get "https://go.dev/issue/25965": EOF
+HTTP请求错误： Get "https://mimesniff.spec.whatwg.org/": socks connect tcp 127.0.0.1:1080->mimesniff.spec.whatwg.org:443: EOF
+HTTP请求错误： Get "https://mimesniff.spec.whatwg.org/#terminology": socks connect tcp 127.0.0.1:1080->mimesniff.spec.whatwg.org:443: read tcp 127.0.0.1:52445->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://pkg.go.dev/net/http#ResponseWriter": EOF
+HTTP请求错误： Get "https://pkg.go.dev/net/http#example-ResponseWriter-Trailers": EOF
+HTTP请求错误： Get "https://tools.ietf.org/html/draft-ietf-websec-mime-sniff-03#section-7": EOF
+HTTP请求错误： Get "https://mimesniff.spec.whatwg.org/#matching-an-audio-or-video-type-pattern": socks connect tcp 127.0.0.1:1080->mimesniff.spec.whatwg.org:443: read tcp 127.0.0.1:52449->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.rarlab.com/technote.htm#rarsign": socks connect tcp 127.0.0.1:1080->www.rarlab.com:443: read tcp 127.0.0.1:52450->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://codereview.appspot.com/4746042": EOF
+HTTP请求错误： Get "https://mimesniff.spec.whatwg.org/#matching-an-image-type-pattern": EOF
+HTTP请求错误： Get "https://mimesniff.spec.whatwg.org/#pattern-matching-algorithm": EOF
+HTTP请求错误： Get "https://www.chromium.org/developers/design-documents/network-stack#TOC-Connection-Management.": socks connect tcp 127.0.0.1:1080->www.chromium.org:443: EOF
+HTTP请求错误： Get "https://trac.nginx.org/nginx/ticket/358": socks connect tcp 127.0.0.1:1080->trac.nginx.org:443: read tcp 127.0.0.1:52455->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://mimesniff.spec.whatwg.org/#signature-for-mp4": EOF
+HTTP请求错误： Get "https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml": EOF
+HTTP请求错误： Get "https://go.dev/issue/56020": EOF
+HTTP请求错误： Get "https://go.dev/issue/52168": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52459->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://something.no-network.tld/": socks connect tcp 127.0.0.1:1080->something.no-network.tld:80: read tcp 127.0.0.1:52460->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://proxy.fake.tld/": EOF
+HTTP请求错误： Get "https://go.dev/issue/56021": EOF
+HTTP请求错误： Get "http://dummy.tld/": EOF
+HTTP请求错误： Get "http://foo.example.com/": socks connect tcp 127.0.0.1:1080->foo.example.com:80: EOF
+HTTP请求错误： Get "https://dummy.tld/": socks connect tcp 127.0.0.1:1080->dummy.tld:443: read tcp 127.0.0.1:52465->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://insecure.tld/": EOF
+HTTP请求错误： Get "https://secure.tld/": EOF
+HTTP请求错误： Get "https://go.dev/issue/49621": EOF
+HTTP请求错误： Get "https://9p.io/magic/man2html/3/ip": socks connect tcp 127.0.0.1:1080->9p.io:443: EOF
+HTTP请求错误： Get "https://9p.io/sources/plan9/sys/src/9/ip/devip.c": socks connect tcp 127.0.0.1:1080->9p.io:443: read tcp 127.0.0.1:52470->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://fake.tld/": EOF
+HTTP请求错误： Get "http://fake.example/": EOF
+HTTP请求错误： Get "https://www.iana.org/assignments/protocol-numbers": EOF
+HTTP请求错误： Get "https://go.dev/issue/22724.": socks connect tcp 127.0.0.1:1080->go.dev:443: EOF
+HTTP请求错误： Get "https://go.dev/issue/49352": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52475->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.iana.org/assignments/service-names-port-numbers": EOF
+HTTP请求错误： Get "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml": EOF
+HTTP请求错误： Get "https://datatracker.ietf.org/doc/html/rfc3927#section-2.1": EOF
+HTTP请求错误： Get "https://datatracker.ietf.org/doc/html/rfc1112#section-4": socks connect tcp 127.0.0.1:1080->datatracker.ietf.org:443: read tcp 127.0.0.1:52479->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://datatracker.ietf.org/doc/html/rfc4291#section-2.7.1": socks connect tcp 127.0.0.1:1080->datatracker.ietf.org:443: read tcp 127.0.0.1:52480->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://datatracker.ietf.org/doc/html/rfc4291#section-2.4": EOF
+HTTP请求错误： Get "https://datatracker.ietf.org/doc/html/rfc1122#section-3.2.1.3": EOF
+HTTP请求错误： Get "https://datatracker.ietf.org/doc/html/rfc5771#section-4": EOF
+HTTP请求错误： Get "https://godoc.org/?q=json-rpc+2.0": socks connect tcp 127.0.0.1:1080->godoc.org:443: EOF
+HTTP请求错误： Get "https://godoc.org/?q=smtp": socks connect tcp 127.0.0.1:1080->godoc.org:443: read tcp 127.0.0.1:52485->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc5952#section-4)": EOF
+HTTP请求错误： Get "https://go.dev/issue/51899": EOF
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/windows/desktop/ms742212(v=vs.85).aspx": EOF
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc5952": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: EOF
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc4007": socks connect tcp 127.0.0.1:1080->tools.ietf.org:443: read tcp 127.0.0.1:52490->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://stackoverflow.com/questions/4949858/": EOF
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc1123": EOF
+HTTP请求错误： Get "https://www.ietf.org/rfc/rfc959.txt": EOF
+HTTP请求错误： Get "https://go.dev/issue/49930": socks connect tcp 127.0.0.1:1080->go.dev:443: EOF
+HTTP请求错误： Get "https://go.dev/issue/50189": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52495->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/34540": EOF
+HTTP请求错误： Get "https://support.google.com/mail/answer/6596": EOF
+HTTP请求错误： Get "https://blog.filippo.io/efficient-go-apis-with-the-inliner/": EOF
+HTTP请求错误： Get "http://bing.com/search?q=dotnet": socks connect tcp 127.0.0.1:1080->bing.com:80: read tcp 127.0.0.1:52499->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://example.com/foo%2fbar": socks connect tcp 127.0.0.1:1080->example.com:443: read tcp 127.0.0.1:52500->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.dragonflybsd.org/cgi/web-man?command=ip6": EOF
+HTTP请求错误： Get "https://man.openbsd.org/ip6#IPV6_V6ONLY": EOF
+HTTP请求错误： Get "http://example.com/directory/": EOF
+HTTP请求错误： Get "http://example.com/#x/y%2Fz": socks connect tcp 127.0.0.1:1080->example.com:80: EOF
+HTTP请求错误： Get "https://example.org:8000/path": socks connect tcp 127.0.0.1:1080->example.org:8000: read tcp 127.0.0.1:52505->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com/search?q=dotnet": EOF
+HTTP请求错误： Get "http://example.com/x/y%2Fz": EOF
+HTTP请求错误： Get "https://example.org": EOF
+HTTP请求错误： Get "https://me:***@example.com/foo/bar?x=1&y=2#anchor": socks connect tcp 127.0.0.1:1080->example.com:443: read tcp 127.0.0.1:52509->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://user:***@example.com/foo/bar": socks connect tcp 127.0.0.1:1080->example.com:443: read tcp 127.0.0.1:52510->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://example.org/foo": EOF
+HTTP请求错误： Get "https://example.org/?a=1&a=2&b=&=3&&&&": EOF
+HTTP请求错误： Get "https://me:***@example.com/foo/bar": EOF
+HTTP请求错误： Get "https://example.org/path?foo=bar": EOF
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc3986#page-21": EOF
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc6874#section-2": EOF
+HTTP请求错误： Get "http://www.google.com/?": socks connect tcp 127.0.0.1:1080->www.google.com:80: EOF
+HTTP请求错误： Get "http://www.google.com/?foo=bar?": socks connect tcp 127.0.0.1:1080->www.google.com:80: read tcp 127.0.0.1:52518->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.com/file%20one%26two": EOF
+HTTP请求错误： Get "http://www.google.com/#file%20one%26two": EOF
+HTTP请求错误： Get "http://www.google.com/?q=go+language": EOF
+HTTP请求错误： Get "http://j@ne:***@google.com/p@th?q=@go": socks connect tcp 127.0.0.1:1080->google.com:80: read tcp 127.0.0.1:52522->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://j@ne:***@google.com/p@th?q=@go": socks connect tcp 127.0.0.1:1080->google.com:80: read tcp 127.0.0.1:52523->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.com/?q=go%20language": EOF
+HTTP请求错误： Get "http://www.google.com/a%20b?q=c+d": EOF
+HTTP请求错误： Get "http://www.google.com/?q=go+language#foo": EOF
+HTTP请求错误： Get "http://rest.rsc.io/foo%2fbar/baz%2Fquux?alt=media": socks connect tcp 127.0.0.1:1080->rest.rsc.io:80: read tcp 127.0.0.1:52527->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://example.com/oid/[order_id": socks connect tcp 127.0.0.1:1080->example.com:80: read tcp 127.0.0.1:52528->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://www.google.com/?q=go+language#foo&bar": EOF
+HTTP请求错误： Get "http://www.google.com/?q=go+language#foo%26bar": EOF
+HTTP请求错误： Get "http://192.168.0.2:8080/foo": EOF
+HTTP请求错误： Get "http://example.com//foo": EOF
+HTTP请求错误： Get "http://user:***@host.tld/this:that": socks connect tcp 127.0.0.1:1080->host.tld:80: read tcp 127.0.0.1:52533->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com/path": EOF
+HTTP请求错误： Get "http://www.google.com/this:that": EOF
+HTTP请求错误： Get "http://host.tld/this:that": socks connect tcp 127.0.0.1:1080->host.tld:80: read tcp 127.0.0.1:52536->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com?a=b": socks connect tcp 127.0.0.1:1080->foo.com:80: read tcp 127.0.0.1:52537->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://user@host.tld/this:that": EOF
+HTTP请求错误： Get "http://:***@host.tld/this:that": EOF
+HTTP请求错误： Get "https://bar.com/": EOF
+HTTP请求错误： Get "https://bar.com/?": EOF
+HTTP请求错误： Get "https://bar.com/?a=b": EOF
+HTTP请求错误： Get "http://foo.com/bar": EOF
+HTTP请求错误： Get "http://foo.com/baz": EOF
+HTTP请求错误： Get "http://foo.com/baz?": socks connect tcp 127.0.0.1:1080->foo.com:80: read tcp 127.0.0.1:52545->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com/bar?a=b": EOF
+HTTP请求错误： Get "http://foo.com/bar?a=b#f": EOF
+HTTP请求错误： Get "http://foo.com/baz?c=d": EOF
+HTTP请求错误： Get "https://foo.com/bar?a=b": socks connect tcp 127.0.0.1:1080->foo.com:443: read tcp 127.0.0.1:52549->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://bar.com/quux": socks connect tcp 127.0.0.1:1080->bar.com:443: read tcp 127.0.0.1:52550->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com//baz": EOF
+HTTP请求错误： Get "http://foo.com///baz/quux": EOF
+HTTP请求错误： Get "http://foo.com/bar/": EOF
+HTTP请求错误： Get "http://foo.com/bar/baz": EOF
+HTTP请求错误： Get "http://foo.com/bar/quux": EOF
+HTTP请求错误： Get "http://foo.com/quux": EOF
+HTTP请求错误： Get "https://datatracker.ietf.org/doc/html/rfc3986#section-5.2.4": socks connect tcp 127.0.0.1:1080->datatracker.ietf.org:443: read tcp 127.0.0.1:52557->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com/dot/./dotdot/../foo/bar": socks connect tcp 127.0.0.1:1080->foo.com:80: read tcp 127.0.0.1:52558->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com/bar/quux/tail": EOF
+HTTP请求错误： Get "http://foo.com/bar/quux/dot/": EOF
+HTTP请求错误： Get "http://foo.com/dot/baz": EOF
+HTTP请求错误： Get "http://example.org/#!$&%27()*+,;=": socks connect tcp 127.0.0.1:1080->example.org:80: EOF
+HTTP请求错误： Get "http://foo.com/#frag": EOF
+HTTP请求错误： Get "http://foo.com/..": EOF
+HTTP请求错误： Get "http://foo.com/foo%2fbar/": EOF
+HTTP请求错误： Get "http://foo.com/1/2/3": socks connect tcp 127.0.0.1:1080->foo.com:80: read tcp 127.0.0.1:52566->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com/1/2/b/..%2fc": socks connect tcp 127.0.0.1:1080->foo.com:80: read tcp 127.0.0.1:52567->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com/1/2%2f/3%2f4/5": EOF
+HTTP请求错误： Get "http://foo.com/1/a/b/c": EOF
+HTTP请求错误： Get "http://foo.com/1/2%2f/3%2f4/a%2f../c": EOF
+HTTP请求错误： Get "http://foo.com/bar%2fbaz": socks connect tcp 127.0.0.1:1080->foo.com:80: read tcp 127.0.0.1:52571->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com/foo%2dbar/": socks connect tcp 127.0.0.1:1080->foo.com:80: read tcp 127.0.0.1:52572->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com/foo%20bar/": EOF
+HTTP请求错误： Get "http://foo.com/foo": EOF
+HTTP请求错误： Get "http://foo.com/foo%2dbar/baz-quux": EOF
+HTTP请求错误： Get "http://a/b/c/g": socks connect tcp 127.0.0.1:1080->a:80: read tcp 127.0.0.1:52576->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://datatracker.ietf.org/doc/html/rfc3986#section-5.4.1": EOF
+HTTP请求错误： Get "https://datatracker.ietf.org/doc/html/rfc3986#section-5.4.2": EOF
+HTTP请求错误： Get "http://a/b/c/.g": EOF
+HTTP请求错误： Get "http://a/b/c/g?y/./x": socks connect tcp 127.0.0.1:1080->a:80: read tcp 127.0.0.1:52580->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://a/b/c/g?y/../x": socks connect tcp 127.0.0.1:1080->a:80: read tcp 127.0.0.1:52581->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://a/b/c/g.": EOF
+HTTP请求错误： Get "http://a/b/c/..g": EOF
+HTTP请求错误： Get "http://a/b/c/g#s/./x": EOF
+HTTP请求错误： Get "http://a/b/c/g#s/../x": EOF
+HTTP请求错误： Get "http://other.example.com/%2F/%2F/": socks connect tcp 127.0.0.1:1080->other.example.com:80: read tcp 127.0.0.1:52585->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://google.com/": socks connect tcp 127.0.0.1:1080->google.com:80: read tcp 127.0.0.1:52586->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.google.com/x?y=z": socks connect tcp 127.0.0.1:1080->www.google.com:443: read tcp 127.0.0.1:52587->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com/?foo\\nbar": socks connect tcp 127.0.0.1:1080->foo.com:80: read tcp 127.0.0.1:52588->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://x.com?foo=bar&bar=1&bar=2&baz": EOF
+HTTP请求错误： Get "https://go.googlesource.com/": socks connect tcp 127.0.0.1:1080->go.googlesource.com:443: read tcp 127.0.0.1:52591->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.googlesource.com/../go": socks connect tcp 127.0.0.1:1080->go.googlesource.com:443: read tcp 127.0.0.1:52592->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.googlesource.com//": socks connect tcp 127.0.0.1:1080->go.googlesource.com:443: read tcp 127.0.0.1:52593->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.googlesource.com/go/a/b/c": socks connect tcp 127.0.0.1:1080->go.googlesource.com:443: read tcp 127.0.0.1:52594->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://foo.com/ctl%5Cx80": EOF
+HTTP请求错误： Get "https://go.googlesource.com/go/": socks connect tcp 127.0.0.1:1080->go.googlesource.com:443: read tcp 127.0.0.1:52595->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.googlesource.com/a%2fb": socks connect tcp 127.0.0.1:1080->go.googlesource.com:443: read tcp 127.0.0.1:52596->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.googlesource.com/a%2fb/c": socks connect tcp 127.0.0.1:1080->go.googlesource.com:443: read tcp 127.0.0.1:52597->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.googlesource.com/a%2fb/c%2fd": socks connect tcp 127.0.0.1:1080->go.googlesource.com:443: read tcp 127.0.0.1:52598->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.googlesource.com/a/b/c": EOF
+HTTP请求错误： Get "https://blogs.msdn.com/b/oldnewthing/archive/2010/05/06/10008132.aspx": socks connect tcp 127.0.0.1:1080->blogs.msdn.com:443: read tcp 127.0.0.1:52601->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/4394": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52602->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/53536.": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52603->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/blog/path-security": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52604->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.googlesource.com/a/b": EOF
+HTTP请求错误： Get "https://go.dev/issue/43724": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52605->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/23019": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52606->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/50599": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52607->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.googlesource.com/a/b/go": EOF
+HTTP请求错误： Get "http://daviddeley.com/autohotkey/parameters/parameters.htm": socks connect tcp 127.0.0.1:1080->daviddeley.com:80: read tcp 127.0.0.1:52610->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://daviddeley.com/autohotkey/parameters/parameters.htm#WINARGV": socks connect tcp 127.0.0.1:1080->daviddeley.com:80: read tcp 127.0.0.1:52611->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://pubs.opengroup.org/onlinepubs/9699919799/functions/open.html#tag_16_357_03": socks connect tcp 127.0.0.1:1080->pubs.opengroup.org:443: read tcp 127.0.0.1:52612->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/desktop/FileIO/symbolic-link-effects-on-file-systems-functions#createfile-and-createfiletransacted": socks connect tcp 127.0.0.1:1080->docs.microsoft.com:443: read tcp 127.0.0.1:52613->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/api/processenv/nf-processenv-needcurrentdirectoryforexepathw": EOF
+HTTP请求错误： Get "https://technet.microsoft.com/en-au/sysinternals/bb896768.aspx": socks connect tcp 127.0.0.1:1080->technet.microsoft.com:443: read tcp 127.0.0.1:52614->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/17w5ykft.aspx": socks connect tcp 127.0.0.1:1080->msdn.microsoft.com:443: read tcp 127.0.0.1:52615->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://stackoverflow.com/questions/42519624/how-to-determine-location-of-onedrive-on-windows-7-and-8-in-c": socks connect tcp 127.0.0.1:1080->stackoverflow.com:443: read tcp 127.0.0.1:52616->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/53536": EOF
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/windows/desktop/aa365247(v=vs.85).aspx#maxpath": socks connect tcp 127.0.0.1:1080->msdn.microsoft.com:443: read tcp 127.0.0.1:52619->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/24164.": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52620->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://man7.org/linux/man-pages/man2/copy_file_range.2.html#ERRORS": socks connect tcp 127.0.0.1:1080->man7.org:443: read tcp 127.0.0.1:52621->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://man7.org/linux/man-pages/man2/splice.2.html#ERRORS": socks connect tcp 127.0.0.1:1080->man7.org:443: read tcp 127.0.0.1:52622->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/uwp/get-started/enable-your-device-for-development": EOF
+HTTP请求错误： Get "https://go.dev/issue/22838": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52624->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/56132": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52625->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://pubs.opengroup.org/onlinepubs/9699919799/functions/tcsetpgrp.html": socks connect tcp 127.0.0.1:1080->pubs.opengroup.org:443: read tcp 127.0.0.1:52626->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/fileio/creating-symbolic-links": EOF
+HTTP请求错误： Get "https://support.apple.com/kb/HT1633": socks connect tcp 127.0.0.1:1080->support.apple.com:443: read tcp 127.0.0.1:52629->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://learn.microsoft.com/en-us/windows/win32/api/minwinbase/ns-minwinbase-win32_find_dataw": socks connect tcp 127.0.0.1:1080->learn.microsoft.com:443: read tcp 127.0.0.1:52630->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/cl/86556": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52631->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://learn.microsoft.com/en-us/windows/win32/fileio/hard-links-and-junctions": socks connect tcp 127.0.0.1:1080->learn.microsoft.com:443: read tcp 127.0.0.1:52632->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://devblogs.microsoft.com/oldnewthing/20100212-00/?p=14963.": EOF
+HTTP请求错误： Get "https://learn.microsoft.com/en-us/windows/win32/fileio/reparse-points-and-file-operations": socks connect tcp 127.0.0.1:1080->learn.microsoft.com:443: read tcp 127.0.0.1:52633->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://learn.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-createfilew": socks connect tcp 127.0.0.1:1080->learn.microsoft.com:443: read tcp 127.0.0.1:52634->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/cc245478.aspx#gt_0387e636-5654-4910-9519-1f8326cf5ec0": socks connect tcp 127.0.0.1:1080->msdn.microsoft.com:443: read tcp 127.0.0.1:52635->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://pubs.opengroup.org/onlinepubs/9699919799.2013edition/basedefs/V1_chap04.html#tag_04_12)": EOF
+HTTP请求错误： Get "https://support.microsoft.com/en-us/help/243330/well-known-security-identifiers-in-windows-operating-systems": socks connect tcp 127.0.0.1:1080->support.microsoft.com:443: read tcp 127.0.0.1:52638->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/ms679375(v=vs.85).aspx": socks connect tcp 127.0.0.1:1080->msdn.microsoft.com:443: read tcp 127.0.0.1:52639->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://books.google.bg/books?id=kGApqjobEfsC&lpg=PA410&ots=p7oo-eOQL7&dq=primary%20group%20RID&hl=bg&pg=PA409#v=onepage&q&f=false": socks connect tcp 127.0.0.1:1080->books.google.bg:443: read tcp 127.0.0.1:52640->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.adampalmer.me/iodigitalsec/2013/08/10/windows-null-session-enumeration/": socks connect tcp 127.0.0.1:1080->www.adampalmer.me:443: read tcp 127.0.0.1:52641->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/windows/desktop/aa370655(v=vs.85).aspx": EOF
+HTTP请求错误： Get "https://social.technet.microsoft.com/wiki/contents/articles/13895.how-to-remove-a-corrupted-user-profile-from-the-registry.aspx": socks connect tcp 127.0.0.1:1080->social.technet.microsoft.com:443: read tcp 127.0.0.1:52642->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://support.asperasoft.com/hc/en-us/articles/216127438-How-to-delete-Windows-user-profiles": socks connect tcp 127.0.0.1:1080->support.asperasoft.com:443: read tcp 127.0.0.1:52643->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://support.microsoft.com/en-us/help/297951/how-to-use-the-primarygroupid-attribute-to-find-the-primary-group-for": EOF
+HTTP请求错误： Get "https://answers.microsoft.com/en-us/windows/forum/windows_7-security/how-do-i-set-a-home-directory-outside-cusers-for-a/aed68262-1bf4-4a4d-93dc-7495193a440f": EOF
+HTTP请求错误： Get "https://learn.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-createfilea#consoles": socks connect tcp 127.0.0.1:1080->learn.microsoft.com:443: read tcp 127.0.0.1:52647->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://learn.microsoft.com/en-us/dotnet/standard/io/file-path-formats": socks connect tcp 127.0.0.1:1080->learn.microsoft.com:443: read tcp 127.0.0.1:52648->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://9p.io/sys/doc/lexnames.html": EOF
+HTTP请求错误： Get "https://pubs.opengroup.org/onlinepubs/9699919799.2013edition/basedefs/V1_chap04.html#tag_04_12": EOF
+HTTP请求错误： Get "https://research.swtch.com/2008/03/using-uninitialized-memory-for-fun-and.html": EOF
+HTTP请求错误： Get "http://www2.research.att.com/~astopen/man/man1/testregex.html": socks connect tcp 127.0.0.1:1080->www2.research.att.com:80: EOF
+HTTP请求错误： Get "http://www2.research.att.com/~astopen/testregex/testregex.html": EOF
+HTTP请求错误： Get "https://swtch.com/~rsc/regexp/regexp2.html": EOF
+HTTP请求错误： Get "https://swtch.com/~rsc/regexp/regexp1.html": EOF
+HTTP请求错误： Get "http://www2.research.att.com/~gsf/testregex/basic.dat": socks connect tcp 127.0.0.1:1080->www2.research.att.com:80: EOF
+HTTP请求错误： Get "http://www2.research.att.com/~gsf/testregex/nullsubexpr.dat": socks connect tcp 127.0.0.1:1080->www2.research.att.com:80: read tcp 127.0.0.1:52657->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://swtch.com/~rsc/regexp/regexp2.html#posix": EOF
+HTTP请求错误： Get "http://www2.research.att.com/~gsf/testregex/testregex.c": EOF
+HTTP请求错误： Get "http://www2.research.att.com/~gsf/testregex/repetition.dat": EOF
+HTTP请求错误： Get "https://support.google.com/faqs/answer/7625886": EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/X86-64#Microarchitecture_levels": EOF
+HTTP请求错误： Get "https://android.googlesource.com/platform/bionic/+/refs/heads/android10-tests-release/libc/private/bionic_asm_tls.h#69": EOF
+HTTP请求错误： Get "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/arch/powerpc/include/uapi/asm/ucontext.h": socks connect tcp 127.0.0.1:1080->git.kernel.org:443: read tcp 127.0.0.1:52664->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/api/winnt/ns-winnt-arm64_nt_context": socks connect tcp 127.0.0.1:1080->docs.microsoft.com:443: read tcp 127.0.0.1:52665->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://pkg.go.dev/internal/goexperiment": socks connect tcp 127.0.0.1:1080->pkg.go.dev:443: read tcp 127.0.0.1:52666->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://go.dev/issue/52672": EOF
+HTTP请求错误： Get "https://go.dev/doc/gc-guide": EOF
+HTTP请求错误： Get "http://www.rdrop.com/users/paulmck/scalability/paper/N2745r.2011.03.04a.html": EOF
+HTTP请求错误： Get "https://go.dev/issue/51087)": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52670->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://goog-perftools.sourceforge.net/doc/tcmalloc.html": socks connect tcp 127.0.0.1:1080->goog-perftools.sourceforge.net:80: read tcp 127.0.0.1:52671->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://lxr.linux.no/linux+v2.6.37.2/arch/arm/kernel/entry-armv.S#L850": EOF
+HTTP请求错误： Get "https://git.kernel.org/?p=linux/kernel/git/torvalds/linux-2.6.git;a=commit;h=b49c0f24cf6744a3f4fd09289fe7cade349dead5": EOF
+HTTP请求错误： Get "https://bugzilla.kernel.org/show_bug.cgi?id=93111": EOF
+HTTP请求错误： Get "https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-optimization-manual.pdf": socks connect tcp 127.0.0.1:1080->www.intel.com:443: read tcp 127.0.0.1:52675->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/libkern/memmove-386.s": EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/libkern/memset-arm.s": EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/libkern/memmove-arm.s": EOF
+HTTP请求错误： Get "https://go.dev/ref/spec#Size_and_alignment_guarantees": EOF
+HTTP请求错误： Get "https://graphics.stanford.edu/~seander/bithacks.html#ZeroInWord": EOF
+HTTP请求错误： Get "https://docs.google.com/document/d/1un-Jn47yByHL7I0aVIP_uVCMxjdM5mpelJhiKlIqxkE/edit?usp=sharing": EOF
+HTTP请求错误： Get "https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=200802": EOF
+HTTP请求错误： Get "https://go.dev/issue/51192": EOF
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation": EOF
+HTTP请求错误： Get "https://gnats.netbsd.org/cgi-bin/query-pr-single.pl?number=50094": socks connect tcp 127.0.0.1:1080->gnats.netbsd.org:443: EOF
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/ms235286.aspx": socks connect tcp 127.0.0.1:1080->msdn.microsoft.com:443: read tcp 127.0.0.1:52686->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/windows/desktop/dn553408(v=vs.85).aspx": EOF
+HTTP请求错误： Get "https://go.dev/issue/43997": EOF
+HTTP请求错误： Get "http://python3porting.com/differences.html": EOF
+HTTP请求错误： Get "https://go.dev/issue/37405": socks connect tcp 127.0.0.1:1080->go.dev:443: EOF
+HTTP请求错误： Get "https://sourceware.org/bugzilla/show_bug.cgi?id=26056": EOF
+HTTP请求错误： Get "https://gnats.netbsd.org/52548": EOF
+HTTP请求错误： Get "https://sourceware.org/bugzilla/show_bug.cgi?id=28551": EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Treap": socks connect tcp 127.0.0.1:1080->en.wikipedia.org:443: read tcp 127.0.0.1:52694->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://swtch.com/semaphore.pdf": EOF
+HTTP请求错误： Get "https://sourceware.org/bugzilla/show_bug.cgi?id=9086": EOF
+HTTP请求错误： Get "https://faculty.washington.edu/aragon/pubs/rst89.pdf": EOF
+HTTP请求错误： Get "https://docs.google.com/document/d/1YDlGIdVTPnmUiTAavlZxBI1d9pwGQgZT7IKFKlIXohQ/edit?usp=sharing": EOF
+HTTP请求错误： Get "https://lemire.me/blog/2016/06/27/a-fast-alternative-to-the-modulo-reduction/": socks connect tcp 127.0.0.1:1080->lemire.me:443: read tcp 127.0.0.1:52699->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://www.jstatsoft.org/article/view/v008i14/xorshift.pdf": EOF
+HTTP请求错误： Get "http://simul.iro.umontreal.ca/testu01/tu01.html": EOF
+HTTP请求错误： Get "http://lists.llvm.org/pipermail/llvm-commits/Week-of-Mon-20140421/214296.html": socks connect tcp 127.0.0.1:1080->lists.llvm.org:80: EOF
+HTTP请求错误： Get "https://developer.apple.com/library/content/qa/qa1398/_index.html": EOF
+HTTP请求错误： Get "https://www.ibm.com/docs/en/aix/7.2?topic=overview-runtime-process-stack": EOF
+HTTP请求错误： Get "https://sourceware.org/git/?p=glibc.git;a=blob;f=sysdeps/unix/sysv/linux/x86_64/sigaction.c": EOF
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/cpp/build/x64-calling-convention": socks connect tcp 127.0.0.1:1080->docs.microsoft.com:443: read tcp 127.0.0.1:52706->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/zthk2dkh.aspx": EOF
+HTTP请求错误： Get "https://gcc.gnu.org/viewcvs/gcc/trunk/libgcc/config/i386/linux-unwind.h?revision=219188&view=markup": EOF
+HTTP请求错误： Get "https://go.dev/issue/41884": EOF
+HTTP请求错误： Get "https://wrkhpi.wordpress.com/2007/08/09/getting-os-information-the-kuser_shared_data-structure/": EOF
+HTTP请求错误： Get "https://go.dev/issue/52674": socks connect tcp 127.0.0.1:1080->go.dev:443: read tcp 127.0.0.1:52710->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/tools/testing/selftests/vDSO/parse_vdso.c": socks connect tcp 127.0.0.1:1080->git.kernel.org:443: read tcp 127.0.0.1:52711->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://sco.com/developers/gabi/latest/ch5.dynamic.html": socks connect tcp 127.0.0.1:1080->sco.com:80: read tcp 127.0.0.1:52712->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "https://refspecs.linuxfoundation.org/LSB_3.2.0/LSB-Core-generic/LSB-Core-generic/symversion.html": socks connect tcp 127.0.0.1:1080->refspecs.linuxfoundation.org:443: read tcp 127.0.0.1:52713->127.0.0.1:1080: read: connection reset by peer
+HTTP请求错误： Get "http://web.archive.org/web/20210411000829/https://wrkhpi.wordpress.com/2007/08/09/getting-os-information-the-kuser_shared_data-structure/": EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/libkern/vlop-386.s": EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/libkern/vlop-arm.s": EOF
+HTTP请求错误： Get "https://ridiculousfish.com/files/division_benchmarks.tar.gz": EOF
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/libkern/vlrt-arm.c": EOF
+HTTP请求错误： Get "https://android.googlesource.com/platform/system/core/+/refs/tags/android-6.0.1_r78/liblog/logd_write.c": EOF
+HTTP请求错误： Get "https://arxiv.org/pdf/2106.05123.pdf": EOF
+HTTP请求错误： Get "https://docs.rs/pdqsort/latest/pdqsort/": EOF
+HTTP请求错误： Get "https://www.cs.dartmouth.edu/~doug/mdmspe.pdf": EOF
+HTTP请求错误： Get "https://go.dev/ref/spec#Floating-point_literals": EOF
+HTTP请求错误： Get "https://go.dev/issue/54098": EOF
+HTTP请求错误： Get "https://go.dev/ref/spec#Integer_literals": EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Boyer-Moore_string_search_algorithm": EOF
+HTTP请求错误： Get "https://www.cs.utexas.edu/~moore/publications/fstrpos.pdf": EOF
+HTTP请求错误： Get "https://drive.google.com/file/d/1nPdvhB0PutEJzdCq5ms6UI58dp50fcAN/view": EOF
+HTTP请求错误： Get "https://go.dev/issue/51972#issuecomment-1126408637": EOF
+HTTP请求错误： Get "https://go.dev/issue/37323": EOF
+HTTP请求错误： Get "https://go.dev/issue/27505": EOF
+HTTP请求错误： Get "https://go.dev/issue/19661": EOF
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/ms880421": EOF
+HTTP请求错误： Get "https://developer.mozilla.org/en-US/docs/Glossary/Truthy": EOF
+HTTP请求错误： Get "https://stackoverflow.com/questions/19839952/all-falsey-values-in-javascript/19839953#19839953": EOF
+HTTP请求错误： Get "http://www.ecma-international.org/ecma-262/5.1/#sec-9.2": EOF
+HTTP请求错误： Get "http://gitweb.dragonflybsd.org/dragonfly.git/blob_plain/HEAD:/sys/kern/syscalls.master": EOF
+HTTP请求错误： Get "http://svn.freebsd.org/base/stable/10/sys/kern/syscalls.master": EOF
+HTTP请求错误： Get "http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/plain/arch/arm/include/uapi/asm/unistd.h": EOF
+HTTP请求错误： Get "http://cvsweb.openbsd.org/cgi-bin/cvsweb/~checkout~/src/sys/kern/syscalls.master": EOF
+HTTP请求错误： Get "https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/include/uapi/asm-generic/unistd.h?id=refs/heads/master#n716": EOF
+HTTP请求错误： Get "https://svnweb.freebsd.org/base?view=revision&revision=254804": EOF
+HTTP请求错误： Get "https://blogs.msdn.com/b/drnick/archive/2007/12/19/windows-and-upn-format-credentials.aspx": EOF
+HTTP请求错误： Get "https://cs.android.com/android/platform/superproject/+/master:bionic/libc/SECCOMP_BLOCKLIST_APP.TXT;l=4;drc=dbb8670dfdcc677f7e3b9262e93800fa14c4e417": EOF
+HTTP请求错误： Get "https://msdn.microsoft.com/en-us/library/windows/desktop/aa365542(v=vs.85).aspx": EOF
+HTTP请求错误： Get "https://docs.microsoft.com/en-us/cpp/build/overview-of-arm-abi-conventions#stage-c-assignment-of-arguments-to-registers-and-stack": EOF
+HTTP请求错误： Get "https://support.microsoft.com/default.aspx?scid=kb;en-us;257460": EOF
+HTTP请求错误： Get "http://www.pgdp.net": EOF
+HTTP请求错误： Get "https://go.dev/doc/fuzz": EOF
+HTTP请求错误： Get "https://go.dev/issue/40771.": EOF
+HTTP请求错误： Get "https://go.dev/issue/29811.": EOF
+HTTP请求错误： Get "https://go.dev/issue/50051": EOF
+HTTP请求错误： Get "https://go.dev/issue/51442": EOF
+HTTP请求错误： Get "http://nickgravgaard.com/elastictabstops/index.html": EOF
+HTTP请求错误： Get "https://go.dev/issue/52746": EOF
+HTTP请求错误： Get "https://go.dev/issue/4556": EOF
+HTTP请求错误： Get "https://go.dev/issue/54580": EOF
+HTTP请求错误： Get "https://go.dev/issue/54580)": EOF
+HTTP请求错误： Get "https://go.dev/issue/50248": EOF
+HTTP请求错误： Get "https://www.iso.org/obp/ui#iso:std:iso:8601:-1:ed-1:v1:en:term:3.1.1.23": EOF
+HTTP请求错误： Get "https://go.dev/issue/47353)": EOF
+HTTP请求错误： Get "https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap08.html": EOF
+HTTP请求错误： Get "https://www.iana.org/time-zones/repository/releases/tzcode2013g.tar.gz": EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Zoneinfo": EOF
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/UTF-16": EOF
+HTTP请求错误： Get "https://tools.ietf.org/html/rfc7539#section-2.3": EOF
+HTTP请求错误： Get "https://cr.yp.to/mac/poly1305-20050329.pdf": EOF
+HTTP请求错误： Get "https://speakerdeck.com/gtank/engineering-prime-numbers?slide=23": EOF
+HTTP请求错误： Get "https://cryptojedi.org/papers/neoncrypto-20120320.pdf": EOF
+HTTP请求错误： Get "http://www.w3.org/Protocols/rfc2616/rfc2616-sec2.html#sec2.2": EOF
+HTTP请求错误： Get "http://tools.ietf.org/html/rfc7230#section-5.4": EOF
+HTTP请求错误： Get "http://tools.ietf.org/html/rfc3986#section-3.2.2": EOF
+HTTP请求错误： Get "http://www.w3.org/Protocols/rfc2616/rfc2616-sec4.html#sec4.2": EOF
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7541.html#integer.representation": EOF
+HTTP请求错误： Get "http://tools.ietf.org/html/draft-ietf-httpbis-header-compression-09": EOF
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7541.html#rfc.section.4.1": EOF
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7541.html#rfc.section.2.3.2": EOF
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7541.html#rfc.section.6.1": EOF
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7541.html#rfc.section.6.2.1": EOF
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7541.html#rfc.section.6.2.2": EOF
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7541.html#rfc.section.6.2.3": EOF
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7541.html#rfc.section.6.3": EOF
+HTTP请求错误： Get "https://httpwg.org/specs/rfc7541.html#rfc.section.5.1": EOF
+HTTP请求错误： Get "https://www.unicode.org/reports/tr46": EOF
+HTTP请求错误： Get "https://unicode.org/cldr/utility/idna.jsp": EOF
+HTTP请求错误： Get "http://www.rfc-editor.org/std/std3.txt": EOF
+HTTP请求错误： Get "https://go.dev/issue/52893": EOF
+HTTP请求错误： Get "http://msdn.microsoft.com/en-us/library/windows/desktop/ms740548.aspx": EOF
+HTTP请求错误： Get "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=77c97b4ee21290f5f083173d957843b615abbff2": EOF
+HTTP请求错误： Get "https://www.unicode.org/reports/tr9": EOF
+HTTP请求错误： Get "https://www.unicode.org/Public/PROGRAMS/BidiReferenceJava/BidiPBAReference.java": EOF
+HTTP请求错误： Get "https://www.unicode.org/Public/PROGRAMS/BidiReferenceJava/": EOF
+HTTP请求错误： Get "https://unicode.org/reports/tr15/#Hangul": EOF
+HTTP请求错误： Get "https://unicode.org/reports/tr15/": EOF
+HTTP请求错误： Get "https://unicode.org/notes/tn5/": EOF
+HTTP请求错误： Get "https://benchmarksgame-team.pages.debian.net/benchmarksgame/": EOF
+HTTP请求错误： Get "http://codereview.appspot.com/180068": EOF
+HTTP请求错误： Get "https://swtch.com/~rsc/thread/squint.pdf": EOF
+HTTP请求错误： Get "http://blog.onideas.ws/eratosthenes.go": EOF

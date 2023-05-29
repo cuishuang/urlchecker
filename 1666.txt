@@ -1,0 +1,7 @@
+用户输入的参数数量: 5
+pure is: true
+listening on [::]:59364
+port: 59364
+总url数量为: 1869
+HTTP请求错误： Get "https://go.googlesource.com/proposal/+/refs/heads/master#language-changes": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://go.googlesource.com/go": context deadline exceeded (Client.Timeout exceeded while awaiting headers)

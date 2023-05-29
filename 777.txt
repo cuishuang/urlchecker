@@ -1,0 +1,62 @@
+用户输入的参数数量: 5
+pure is: true
+总url数量为: 2283
+HTTP请求错误： Get "http://illumosincludeinstallintegerinvalidjs/wasmldflagslog.txtlookup": EOF
+404: http://www.w3.org/XML/1998/namespaceinternal
+404: https://example.org/pkg/foo?go-get=1
+404: http://example.org/pkg/foo?go-get=1
+404: https://code.org/r/p/exproj
+404: https://code.org/moduleproxy
+HTTP请求错误： Get "https://en.wikipedia.org/wiki/Wirth_syntax_notation": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.iana.org/time-zones": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.iana.org/time-zones/repository/releases/tzcode$CODE.tar.gz": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://data.iana.org/time-zones/releases/tzdata$DATA.tar.gz": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://issuetracker.google.com/issues/36908392": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://go.dev/doc/godebug
+HTTP请求错误： Get "https://pubs.opengroup.org/onlinepubs/009695399/utilities/pax.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://support.pkware.com/home/pkzip/developer-tools/appnote": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://learn.microsoft.com/windows/desktop/api//winbase/nf-winbase-dosdatetimetofiletime?redirectedfrom=MSDN": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://localhost:6060/doc/install.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://gcc.gnu.org/bugzilla/show_bug.cgi?id=52991": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://go.googlesource.com/go/+/refs/heads/master/src/cmd/compile/abi-internal.md": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://go.dev/issue/new\n
+HTTP请求错误： Get "https://github.com/golang/go/issues/56103": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://publibfp.boulder.ibm.com/epubs/pdf/dz9zr010.pdf": EOF
+HTTP请求错误： Get "http://www.hpl.hp.com/techreports/Compaq-DEC/WRL-2000-2.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://github.com/golang/go/issues/31576": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://learn.microsoft.com/en-us/windows/win32/api/sysinfoapi/ns-sysinfoapi-system_info?redirectedfrom=MSDN": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://learn.microsoft.com/windows/desktop/FileIO/naming-a-file?redirectedfrom=MSDN": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://test.com/x/y.git": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://bitbucket.org/rsc/qr": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://github.com/golang/go/issues/22315": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://bugs.launchpad.net/bzr/+bug/681792": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://hub.jazz.net/git/user1/pkgname": EOF
+HTTP请求错误： Get "https://hub.jazz.net/git/user/pkg.name": EOF
+HTTP请求错误： Get "https://opendev.org/openstack/swift": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://git.apache.org/package-name.git
+404: https://git.apache.org/package-name_2.x.git
+404: https://bitbucket.org/workspace/pkgname
+404: http://example.com/foo.git
+404: https://example.com/foo.git
+404: http://example.com/foo.bzr
+404: https://example.com/foo.bzr
+404: http://example.com/svn
+404: https://example.com/svn
+404: http://example.com/foo.hg
+HTTP请求错误： Get "https://example.com/foo.hg": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: http://example.com/foo
+HTTP请求错误： Get "https://example.com/foo": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://example.com/repo/target
+HTTP请求错误： Get "https://learn.microsoft.com/archive/blogs/freeassociations/the-bizarre-and-unhappy-story-of-file-urls": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://github.com/golang/go/issues/51483": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://vcs-test.swtch.com/git/README-only": x509: “vcs-test.golang.org” certificate name does not match input
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/5l/span.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+403: https://llvm.org/svn/llvm-project/llvm/trunk/lib/Target/Mips/MipsRegisterInfo.td
+404: https://gcc.gnu.org/viewcvs/gcc/trunk/gcc/config/mips/mips.c?view=co&revision=258099&content-type=text%2Fplain
+HTTP请求错误： Get "https://www.uclibc.org/docs/psABI-x86_64.pdf": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.uclibc.org/docs/psABI-i386.pdf": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://article.gmane.org/gmane.linux.kernel/1853266.": EOF
+HTTP请求错误： Get "https://www.netbsd.org/docs/kernel/elf-notes.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://www.microsoft.com/whdc/system/platform/firmware/PECOFFdwn.mspx": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.linux-mips.org/pub/linux/mips/doc/ABI/elf64-2.4.pdf": x509: “linux-mips.org” certificate is expired
+HTTP请求错误： Get "https://protobuf.dev/programming-guides/encoding/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)

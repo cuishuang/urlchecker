@@ -1,0 +1,49 @@
+用户输入的参数数量: 5
+pure is: true
+总url数量为: 139
+HTTP请求错误： Get "http://host/profile": EOF
+HTTP请求错误： Get "https://if-matchif-rangeinfinityinsecureinvalid": EOF
+HTTP请求错误： Get "https://whatever": EOF
+HTTP请求错误： Get "https://packagepath": EOF
+HTTP请求错误： Get "https://%E2%98%BA": EOF
+HTTP请求错误： Get "http://foo/": EOF
+HTTP请求错误： Get "http://javascript:80/foo": EOF
+HTTP请求错误： Get "https://localhost:1234/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://[2006:abcd::1]/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://[2006:abcd::1]:16/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://localhost:1234/mod": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://[fe80::1]:8080/": EOF
+HTTP请求错误： Get "http://localhost:1234/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://localhost/anything": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://localhost:6060/debug/pprof/heap": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://[fe80::1%25en0]/": EOF
+HTTP请求错误： Get "http://[fe80::1]/": EOF
+HTTP请求错误： Get "http://[fe80::1%25en0]:8080/": EOF
+HTTP请求错误： Get "http://localhost:6060/debug/pprof/profile?seconds=30": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://foo/after": EOF
+HTTP请求错误： Get "http://localhost:6060/debug/pprof/block": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://localhost:6060/debug/pprof/mutex": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://localhost:6060/debug/pprof/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://localhost:6060/debug/pprof/trace?seconds=5": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://localhost/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://host/!$&": EOF
+HTTP请求错误： Get "http://server": EOF
+HTTP请求错误： Get "http://localhost:8080/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://localhost/someDir/apage": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://localhost/%23/apage": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://localhost/otherDir/apage": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://a/b/c/d;p?q": EOF
+HTTP请求错误： Get "http://a/b/c/g": EOF
+HTTP请求错误： Get "http://localhost/someDir": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://a/b/c/g/": EOF
+HTTP请求错误： Get "http://localhost/%23": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://a/b/c/d;p?y": EOF
+HTTP请求错误： Get "http://a/g": EOF
+HTTP请求错误： Get "http://a/b/c/g?y": EOF
+HTTP请求错误： Get "http://a/b/c/d;p?q#s": EOF
+HTTP请求错误： Get "http://a/b/c/;x": EOF
+HTTP请求错误： Get "http://localhost:8080/_ah/login?continue=http://localhost:8080/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://a/b/c/": EOF
+HTTP请求错误： Get "http://a/b/c/g?y#s": EOF
+HTTP请求错误： Get "http://a/b/": EOF
+HTTP请求错误： Get "http://a/b/c/g/h": EOF

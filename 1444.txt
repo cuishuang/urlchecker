@@ -1,0 +1,69 @@
+用户输入的参数数量: 5
+pure is: true
+listening on [::]:55407
+port: 55407
+总url数量为: 1869
+HTTP请求错误： Get "http://illumosincludeinstallintegerinvalidjs/wasmldflagslog.txtlookup": EOF
+HTTP请求错误： Get "https://www.w3.org/XML/1998/namespaceinternal": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://swig.org/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://example.org/pkg/foo?go-get=1
+404: http://example.org/pkg/foo?go-get=1
+404: https://code.org/r/p/exproj
+404: https://code.org/moduleproxy
+HTTP请求错误： Get "https://data.iana.org/time-zones/releases/tzcode$CODE.tar.gz": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://www.iana.org/time-zones/repository/releases/tzdata$DATA.tar.gz
+HTTP请求错误： Get "https://github.com/mstorsjo/llvm-mingw/blob/657d12c8a5098a6d857b10535dda8ef3835fe573/wrappers/dlltool-wrapper.sh": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://developer.apple.com/membercenter/index.action#accountSummary": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.w3.org/2000/svg": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://github.com/remy/polyfills/blob/6e87470526c496c0fc53fa87ed5a825eff61f1f3/classList.js": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.pkware.com/appnote": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://learn.microsoft.com/en-us/windows/desktop/api/winbase/nf-winbase-dosdatetimetofiletime?redirectedfrom=MSDN": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://learn.microsoft.com/en-us/windows/desktop/api/winbase/nf-winbase-filetimetodosdatetime?redirectedfrom=MSDN": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://localhost:6060/doc/install.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://bugs.java.com/?bug_id=7073588": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://bugs.llvm.org/show_bug.cgi?id=42442": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.apache.org/licenses/LICENSE-2.0": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://publibfp.boulder.ibm.com/epubs/pdf/dz9zr010.pdf": EOF
+HTTP请求错误： Get "http://www.hpl.hp.com/techreports/Compaq-DEC/WRL-2000-2.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.8.1979&rep=rep1&type=pdf": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://learn.microsoft.com/windows/desktop/api//sysinfoapi/ns-sysinfoapi-system_info?redirectedfrom=MSDN": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://learn.microsoft.com/en-us/windows/win32/api/sysinfoapi/ns-sysinfoapi-system_info": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://learn.microsoft.com/windows/desktop/FileIO/naming-a-file?redirectedfrom=MSDN": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://test.com/x/y.git": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://bitbucket.org/rsc/qr
+HTTP请求错误： Get "http://9p.io/magic/man2html/2/access": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://bugs.launchpad.net/bzr/+bug/681792": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://hub.jazz.net/git/user1/pkgname": EOF
+HTTP请求错误： Get "https://hub.jazz.net/git/user/pkg.name": EOF
+HTTP请求错误： Get "https://opendev.org/openstack/swift": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://opendev.org/openstack/swift.git": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+404: https://git.apache.org/package-name.git
+404: https://git.apache.org/package-name_2.x.git
+404: https://bitbucket.org/workspace/pkgname
+404: http://example.com/foo.git
+404: https://example.com/foo.git
+404: http://example.com/foo.bzr
+404: https://example.com/foo.bzr
+404: http://example.com/svn
+404: https://example.com/svn
+404: http://example.com/foo.hg
+404: https://example.com/foo.hg
+404: http://example.com/foo
+404: https://example.com/foo
+404: https://example.com/repo/target
+404: https://blogs.msdn.microsoft.com/freeassociations/2005/05/19/the-bizarre-and-unhappy-story-of-file-urls/.
+HTTP请求错误： Get "http://www.oocities.org/nodotus/hbglass.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://vcs-test.swtch.com/git/README-only": x509: “vcs-test.golang.org” certificate name does not match input
+HTTP请求错误： Get "https://dwarfstd.org/doc/Dwarf3.pdf": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+403: https://llvm.org/svn/llvm-project/llvm/trunk/lib/Target/Mips/MipsRegisterInfo.td
+404: https://gcc.gnu.org/viewcvs/gcc/trunk/gcc/config/mips/mips.c?view=co&revision=258099&content-type=text%2Fplain
+HTTP请求错误： Get "https://www.uclibc.org/docs/psABI-x86_64.pdf": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.uclibc.org/docs/psABI-i386.pdf": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.agner.org/optimize/optimizing_assembly.pdf": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://article.gmane.org/gmane.linux.kernel/1853266.": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/include/ar.h": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://opensource.apple.com/source/dyld/dyld-519.2.2/src/ImageLoaderMachO.cpp.auto.html": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "http://www.microsoft.com/whdc/system/platform/firmware/PECOFFdwn.mspx": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://sourceware.org/git/?p=binutils-gdb.git;a=blob;f=ld/pe-dll.c;h=e7b82ba6ffadf74dc1b9ee71dc13d48336941e51;hb=HEAD#l972": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+HTTP请求错误： Get "https://www.linux-mips.org/pub/linux/mips/doc/ABI/elf64-2.4.pdf": x509: “linux-mips.org” certificate is expired
+HTTP请求错误： Get "https://bitbucket.org/inferno-os/inferno-os/src/master/utils/8l/obj.c": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
